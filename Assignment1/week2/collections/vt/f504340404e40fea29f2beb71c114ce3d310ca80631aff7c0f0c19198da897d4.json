@@ -1,0 +1,16 @@
+{
+  "sha256": "f504340404e40fea29f2beb71c114ce3d310ca80631aff7c0f0c19198da897d4",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:04:52.146516+00:00",
+  "detections": "53/70",
+  "names": [
+    "KrbRelayUp.exe"
+  ],
+  "tags": [
+    "assembly",
+    "spreader",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "KrbRelayUp.exe"
+}

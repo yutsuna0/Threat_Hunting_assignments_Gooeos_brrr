@@ -1,0 +1,20 @@
+{
+  "sha256": "5f20217b95a128e33a5a544c6f0af5343c426e976c773eb762d87afeb2c735ab",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:12:50.360804+00:00",
+  "detections": "43/59",
+  "names": [
+    "SharpUp.exe",
+    "68b7wd.exe",
+    "333c284a4be17918e42380fb37b9bb34"
+  ],
+  "tags": [
+    "detect-debug-environment",
+    "peexe",
+    "long-sleeps",
+    "idle",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpUp.exe"
+}

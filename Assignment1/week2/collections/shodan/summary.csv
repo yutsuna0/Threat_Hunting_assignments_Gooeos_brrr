@@ -1,0 +1,6 @@
+query_id,query,timestamp_utc,indexed_hosts,saved_rows
+ldap_rootdse,"port:389 ""namingContexts""",2026-09-20T05:28:45.265308+00:00,27694,100
+ldaps_certs,port:636 ssl.cert.subject.CN:dc*,2026-09-20T05:28:47.638368+00:00,86,86
+global_catalog,port:3268,2026-09-20T05:28:49.278140+00:00,540317,100
+kerberos_88,"port:88 product:""Microsoft Windows"" -google -microsoft",2026-09-20T05:28:50.761720+00:00,0,0
+smb_445,"port:445 os:""Windows Server"" -google -microsoft",2026-09-20T05:28:53.715864+00:00,108752,100

@@ -1,0 +1,17 @@
+{
+  "sha256": "117c8de4a48573eb06b43375ab75d9fafe5e0c9d4af5c9c125e11c32b6e5d339",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:10:04.983348+00:00",
+  "detections": "48/67",
+  "names": [
+    "ootzoby.exe",
+    "SharpKatz.exe",
+    "2026-04-17_12c436c3887d3ee22a2035b9e094f767_elex_mimikatz"
+  ],
+  "tags": [
+    "assembly",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpKatz.exe"
+}

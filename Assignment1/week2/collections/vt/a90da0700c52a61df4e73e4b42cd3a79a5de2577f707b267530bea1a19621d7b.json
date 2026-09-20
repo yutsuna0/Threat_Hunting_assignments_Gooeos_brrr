@@ -1,0 +1,18 @@
+{
+  "sha256": "a90da0700c52a61df4e73e4b42cd3a79a5de2577f707b267530bea1a19621d7b",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:10:38.062191+00:00",
+  "detections": "35/57",
+  "names": [
+    "SharpPrinter.exe",
+    "dpmjk.exe"
+  ],
+  "tags": [
+    "peexe",
+    "detect-debug-environment",
+    "idle",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpPrinter.exe"
+}

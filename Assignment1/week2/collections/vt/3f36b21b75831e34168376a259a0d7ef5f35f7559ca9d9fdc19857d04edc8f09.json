@@ -1,0 +1,13 @@
+{
+  "sha256": "3f36b21b75831e34168376a259a0d7ef5f35f7559ca9d9fdc19857d04edc8f09",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:07:36.706015+00:00",
+  "detections": "46/71",
+  "names": [],
+  "tags": [
+    "peexe",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpChrome.exe"
+}

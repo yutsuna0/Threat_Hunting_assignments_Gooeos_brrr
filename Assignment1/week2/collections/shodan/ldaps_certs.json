@@ -1,0 +1,923 @@
+{
+  "query_id": "ldaps_certs",
+  "query": "port:636 ssl.cert.subject.CN:dc*",
+  "timestamp_utc": "2026-09-20T05:28:47.638368+00:00",
+  "total_shodan_index": 86,
+  "results": [
+    {
+      "ip": "13.66.81.13",
+      "port": 636,
+      "org": "Microsoft Corporation",
+      "country": "United States",
+      "hostnames": [
+        "aad-dc-zsc-p01.austin.utexas.edu",
+        "austin.utexas.edu",
+        "directory-zsc.austin.utexas.edu",
+        "directory.austin.utexas.edu"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "aad-dc-zsc-p01.austin.utexas.edu"
+    },
+    {
+      "ip": "128.83.255.101",
+      "port": 636,
+      "org": "University of Texas at Austin",
+      "country": "United States",
+      "hostnames": [
+        "directory-atx.adqual.utexas.edu",
+        "directory.adqual.utexas.edu",
+        "adqual.utexas.edu",
+        "aad-dc-atx-q01.adqual.utexas.edu"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "aad-dc-atx-q01.adqual.utexas.edu"
+    },
+    {
+      "ip": "128.83.255.109",
+      "port": 636,
+      "org": "University of Texas at Austin",
+      "country": "United States",
+      "hostnames": [
+        "directory-atx.adtest.utexas.edu",
+        "adtest.utexas.edu",
+        "directory.adtest.utexas.edu",
+        "aad-dc-atx-t01.adtest.utexas.edu"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "aad-dc-atx-t01.adtest.utexas.edu"
+    },
+    {
+      "ip": "128.83.255.69",
+      "port": 636,
+      "org": "University of Texas at Austin",
+      "country": "United States",
+      "hostnames": [
+        "directory-atx.austin.utexas.edu",
+        "austin.utexas.edu",
+        "aad-dc-atx-p01.austin.utexas.edu",
+        "directory.austin.utexas.edu"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "aad-dc-atx-p01.austin.utexas.edu"
+    },
+    {
+      "ip": "197.255.127.157",
+      "port": 636,
+      "org": "For Infrastructure",
+      "country": "Ghana",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "noc-dc-0009.ug.edu.gh"
+    },
+    {
+      "ip": "20.252.31.5",
+      "port": 636,
+      "org": "Microsoft Corporation",
+      "country": "United States",
+      "hostnames": [
+        "directory-zw2.austin.utexas.edu",
+        "austin.utexas.edu",
+        "aad-dc-zw2-p01.austin.utexas.edu",
+        "directory.austin.utexas.edu"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "aad-dc-zw2-p01.austin.utexas.edu"
+    },
+    {
+      "ip": "164.132.73.129",
+      "port": 636,
+      "org": "OVH SAS",
+      "country": "France",
+      "hostnames": [
+        "ip129.ip-164-132-73.eu"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "ni-dc.ni.local"
+    },
+    {
+      "ip": "62.210.111.10",
+      "port": 636,
+      "org": "Scaleway Dedibox",
+      "country": "France",
+      "hostnames": [
+        "dc.gpsbol.com"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc.gpsbol.com"
+    },
+    {
+      "ip": "197.255.127.224",
+      "port": 636,
+      "org": "For Infrastructure",
+      "country": "Ghana",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "noc-dc-0008.ug.edu.gh"
+    },
+    {
+      "ip": "197.255.127.173",
+      "port": 636,
+      "org": "For Infrastructure",
+      "country": "Ghana",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "noc-dc-0010.ug.edu.gh"
+    },
+    {
+      "ip": "161.74.114.9",
+      "port": 636,
+      "org": "University of Westminster",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ldap-dc-02.intranet.wmin.ac.uk",
+        "ldap-dc-01.intranet.wmin.ac.uk",
+        "sign-in.westminster.ac.uk",
+        "ldap-vip.wmin.ac.uk"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "ldap-dc-01.intranet.wmin.ac.uk"
+    },
+    {
+      "ip": "52.139.216.146",
+      "port": 636,
+      "org": "Microsoft Corporation",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc.ambersg.com"
+    },
+    {
+      "ip": "66.6.107.239",
+      "port": 636,
+      "org": "LightEdge Solutions",
+      "country": "United States",
+      "hostnames": [
+        "broadcast.new.lh.net"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260919061108.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=taglan,DC=com\n  DsServiceName: CN=NTDS Settings,CN=TAG-DC,CN=Servers,CN=STC,CN=Sites,CN=Configura",
+      "ssl_cn": "tag-dc.taglan.com"
+    },
+    {
+      "ip": "193.170.45.219",
+      "port": 636,
+      "org": "Austrian School Network - EDUnet",
+      "country": "Austria",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-02.phb.intern"
+    },
+    {
+      "ip": "88.99.169.23",
+      "port": 636,
+      "org": "Hetzner Online GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "dc.bat-connect.de",
+        "login.bat-connect.de"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260918235123.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=bat-connect,DC=de\n  DsServiceName: CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,C",
+      "ssl_cn": "dc.bat-connect.de"
+    },
+    {
+      "ip": "193.170.45.210",
+      "port": 636,
+      "org": "Austrian School Network - EDUnet",
+      "country": "Austria",
+      "hostnames": [
+        "mail.ph-burgenland.at"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-02.phb.intern"
+    },
+    {
+      "ip": "56.136.6.137",
+      "port": 636,
+      "org": "Amazon.com, Inc.",
+      "country": "United States",
+      "hostnames": [
+        "ec2-56-136-6-137.us-gov-west-1.compute.amazonaws.com"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=sf,dc=priv\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1",
+      "ssl_cn": "dc=sf,dc=priv"
+    },
+    {
+      "ip": "80.211.229.134",
+      "port": 636,
+      "org": "Aruba S.p.A. - Cloud Services Farm2",
+      "country": "Italy",
+      "hostnames": [
+        "host134-229-211-80.serverdedicati.aruba.it"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260918163731.0Z\n  NamingContexts:\n    CN=Configuration,DC=corp,DC=local\n    CN=Schema,CN=Configuration,DC=corp,DC=local\n    DC=DomainDnsZones,DC=corp,DC=local\n    DC=ForestDnsZo",
+      "ssl_cn": "dc-archivio.corp.local"
+    },
+    {
+      "ip": "74.249.128.150",
+      "port": 636,
+      "org": "Microsoft Corporation",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-scep.dc-scep.local"
+    },
+    {
+      "ip": "197.255.127.220",
+      "port": 636,
+      "org": "For Infrastructure",
+      "country": "Ghana",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "noc-dc-0006.ug.edu.gh"
+    },
+    {
+      "ip": "197.255.127.240",
+      "port": 636,
+      "org": "For Infrastructure",
+      "country": "Ghana",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "noc-dc-0012.ug.edu.gh"
+    },
+    {
+      "ip": "91.66.43.189",
+      "port": 636,
+      "org": "Vodafone Deutschland GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "ip-091-066-043-189.vkd75.pools.vodafone-ip.de"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "LFM-IT-VM-DC-01.dc.felsenmanufaktur.de"
+    },
+    {
+      "ip": "212.237.6.228",
+      "port": 636,
+      "org": "Aruba S.p.A. - Cloud Services Farm2",
+      "country": "Italy",
+      "hostnames": [
+        "host228-6-237-212.serverdedicati.aruba.it"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260917143503.0Z\n  NamingContexts:\n    CN=Configuration,DC=corp,DC=local\n    CN=Schema,CN=Configuration,DC=corp,DC=local\n    DC=DomainDnsZones,DC=corp,DC=local\n    DC=ForestDnsZo",
+      "ssl_cn": "dc-filiale.corp.local"
+    },
+    {
+      "ip": "212.237.6.203",
+      "port": 636,
+      "org": "Aruba S.p.A. - Cloud Services Farm2",
+      "country": "Italy",
+      "hostnames": [
+        "host203-6-237-212.serverdedicati.aruba.it"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260917090948.0Z\n  NamingContexts:\n    CN=Configuration,DC=corp,DC=local\n    CN=Schema,CN=Configuration,DC=corp,DC=local\n    DC=DomainDnsZones,DC=corp,DC=local\n    DC=ForestDnsZo",
+      "ssl_cn": "dc-archivio.corp.local"
+    },
+    {
+      "ip": "144.126.147.33",
+      "port": 636,
+      "org": "Contabo Inc.",
+      "country": "United States",
+      "hostnames": [
+        "vmi3458002.contaboserver.net",
+        "dc.oreomilobiscuit.nz"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc.oreomilobiscuit.nz"
+    },
+    {
+      "ip": "193.170.45.214",
+      "port": 636,
+      "org": "Austrian School Network - EDUnet",
+      "country": "Austria",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-02.phb.intern"
+    },
+    {
+      "ip": "62.54.240.186",
+      "port": 636,
+      "org": "Telefonica Germany GmbH & Co.OHG",
+      "country": "Germany",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "sprickbi-dc.Sprick.int"
+    },
+    {
+      "ip": "66.6.107.238",
+      "port": 636,
+      "org": "LightEdge Solutions",
+      "country": "United States",
+      "hostnames": [
+        "router.new.lh.net"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260916010414.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=GBMGLAN,DC=com\n  DsServiceName: CN=NTDS Settings,CN=GBMG-DC,CN=Servers,CN=STC,CN=Sites,CN=Configu",
+      "ssl_cn": "gbmg-dc.gbmglan.com"
+    },
+    {
+      "ip": "193.170.45.213",
+      "port": 636,
+      "org": "Austrian School Network - EDUnet",
+      "country": "Austria",
+      "hostnames": [
+        "mail2.ph-burgenland.at"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-02.phb.intern"
+    },
+    {
+      "ip": "197.255.127.206",
+      "port": 636,
+      "org": "For Infrastructure",
+      "country": "Ghana",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "noc-dc-0007.ug.edu.gh"
+    },
+    {
+      "ip": "56.136.12.223",
+      "port": 636,
+      "org": "Amazon.com, Inc.",
+      "country": "United States",
+      "hostnames": [
+        "ec2-56-136-12-223.us-gov-west-1.compute.amazonaws.com"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=sf,dc=priv\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1",
+      "ssl_cn": "dc=sf,dc=priv"
+    },
+    {
+      "ip": "193.170.45.211",
+      "port": 636,
+      "org": "Austrian School Network - EDUnet",
+      "country": "Austria",
+      "hostnames": [
+        "www.pi-ei.asn-bgld.ac.at"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-02.phb.intern"
+    },
+    {
+      "ip": "197.255.127.237",
+      "port": 636,
+      "org": "For Infrastructure",
+      "country": "Ghana",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "noc-dc-0011.ug.edu.gh"
+    },
+    {
+      "ip": "27.131.112.26",
+      "port": 636,
+      "org": "Micron21 Melbourne Datacentre Co-Location Dedicated Servers Web Hosting",
+      "country": "Australia",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260914004749.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=micron21,DC=net\n  DsServiceName: CN=NTDS Settings,CN=DC-M-001,CN=Servers,CN=Kilsyth,CN=Sites,CN=C",
+      "ssl_cn": "dc-m-001.micron21.net"
+    },
+    {
+      "ip": "54.37.78.144",
+      "port": 636,
+      "org": "OVH GmbH",
+      "country": "Germany",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  DefaultNamingContext: dc=mitgo,dc=tech\n  NamingContexts:\n    cn=changelog\n    dc=mitgo,dc=tech\n    o=ipaca\n  SubschemaSubentry: cn=schema\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2",
+      "ssl_cn": "dc-ipa2.mitgo.tech"
+    },
+    {
+      "ip": "31.58.236.65",
+      "port": 636,
+      "org": "GOLD IP L.L.C-FZ",
+      "country": "Turkey",
+      "hostnames": [
+        "dc.aydincloud.com"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedSASLMechanisms: GSSAPI SRP\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2.840.113556.1.4.417\n    1.3.6.1.4.1.4203.1.9.1.1\n    1.3.6.1.4.1.4203.1.9.1.2\n    1.3.6.1.4.1.4203.1.9",
+      "ssl_cn": "dc.aydincloud.com"
+    },
+    {
+      "ip": "199.180.30.136",
+      "port": 636,
+      "org": "4WEB.CA",
+      "country": "Canada",
+      "hostnames": [
+        "136-030-180-199-av1.4web.net"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260912223821.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=solidtech,DC=local\n  DsServiceName: CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,",
+      "ssl_cn": "dc.solidtech.local"
+    },
+    {
+      "ip": "185.241.192.97",
+      "port": 636,
+      "org": "VK Cloud Solutions",
+      "country": "Russian Federation",
+      "hostnames": [
+        "97.mcs.mail.ru"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "srv-dc-01.dsinfra.internal"
+    },
+    {
+      "ip": "84.225.136.72",
+      "port": 636,
+      "org": "Yettel Hungary Ltd.",
+      "country": "Hungary",
+      "hostnames": [
+        "logi-svr-dc.bayzoltan.org"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260911225411.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=BAYZOLTAN,DC=ORG\n  DsServiceName: CN=NTDS Settings,CN=LOGI-SVR-DC,CN=Servers,CN=LOGI,CN=Sites,CN=",
+      "ssl_cn": "logi-svr-dc.bayzoltan.org"
+    },
+    {
+      "ip": "193.170.45.217",
+      "port": 636,
+      "org": "Austrian School Network - EDUnet",
+      "country": "Austria",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-02.phb.intern"
+    },
+    {
+      "ip": "51.195.130.12",
+      "port": 636,
+      "org": "Center Silver Media",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ip12.ip-51-195-130.eu",
+        "dc.on.rage.green"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc.on.rage.green"
+    },
+    {
+      "ip": "158.69.79.195",
+      "port": 636,
+      "org": "OVH Hosting, Inc.",
+      "country": "Canada",
+      "hostnames": [
+        "mailsrv1.webmatrix.com.br",
+        "dc-mail.webmatrix.com.br"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: fn=ContactRoot\n  DefaultNamingContext: fn=ContactRoot\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2.840.113556.1.4.473\n    1.2.840.113556.1.4.474",
+      "ssl_cn": "dc-mail.webmatrix.com.br"
+    },
+    {
+      "ip": "105.246.151.152",
+      "port": 636,
+      "org": "Vodacom Business (ENS)",
+      "country": "South Africa",
+      "hostnames": [
+        "lance-grj-dc.lancewood.co.za",
+        "vc-vb-105-246-151-152.ens.vodacom.co.za"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "lance-grj-dc.lancewood.co.za"
+    },
+    {
+      "ip": "135.181.209.35",
+      "port": 636,
+      "org": "Hetzner Online GmbH",
+      "country": "Finland",
+      "hostnames": [
+        "rsh2.donotuse.de"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=rsh2\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1.4203.",
+      "ssl_cn": "dc=rsh2"
+    },
+    {
+      "ip": "159.65.58.137",
+      "port": 636,
+      "org": "DigitalOcean, LLC",
+      "country": "United Kingdom",
+      "hostnames": [
+        "dc.ipa.chase-podiatry.co.uk"
+      ],
+      "banner_snippet": "LDAP:\n  DefaultNamingContext: dc=ipa,dc=chase-podiatry,dc=co,dc=uk\n  NamingContexts:\n    cn=changelog\n    dc=ipa,dc=chase-podiatry,dc=co,dc=uk\n    o=ipaca\n  SubschemaSubentry: cn=schema\n  SupportedCon",
+      "ssl_cn": "dc.ipa.chase-podiatry.co.uk"
+    },
+    {
+      "ip": "207.245.165.49",
+      "port": 636,
+      "org": "National Archives and Records Administration",
+      "country": "United States",
+      "hostnames": [
+        "na2-dc-06.win.nara.gov",
+        "atlas.nara.gov",
+        "sa.nara.gov"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "na2-dc-06.win.nara.gov"
+    },
+    {
+      "ip": "177.84.219.91",
+      "port": 636,
+      "org": "BrNet Informatica",
+      "country": "Brazil",
+      "hostnames": [
+        "dc.brnetcloud.net.br"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260909074512.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=brnetcloud,DC=net,DC=br\n  DsServiceName: CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-",
+      "ssl_cn": "dc.brnetcloud.net.br"
+    },
+    {
+      "ip": "162.55.133.124",
+      "port": 636,
+      "org": "Hetzner Online GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "deu-pve1-chr"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260908201404.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=2wtrade,DC=com\n  DsServiceName: CN=NTDS Settings,CN=DC-3,CN=Servers,CN=Hetzner,CN=Sites,CN=Config",
+      "ssl_cn": "dc-3.2wtrade.com"
+    },
+    {
+      "ip": "195.179.226.237",
+      "port": 636,
+      "org": "Contabo GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "srv.oaksinvestment.com"
+      ],
+      "banner_snippet": "LDAP:\n  ErrorMessage: 00000070: LdapErr: DSID-0C04257E, comment: A jet error was encountered, data fffffbbe, v4563\u0000\n  ResultCode: operationsError",
+      "ssl_cn": "dc.oaksinvestment.com"
+    },
+    {
+      "ip": "147.229.12.12",
+      "port": 636,
+      "org": "Brno University of Technology",
+      "country": "Czechia",
+      "hostnames": [
+        "dc.fit.vutbr.cz"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc.fit.vutbr.cz"
+    },
+    {
+      "ip": "160.1.153.140",
+      "port": 636,
+      "org": "Amazon.com, Inc.",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=sf,dc=priv\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1",
+      "ssl_cn": "dc=sf,dc=priv"
+    },
+    {
+      "ip": "178.62.117.154",
+      "port": 636,
+      "org": "DigitalOcean London",
+      "country": "United Kingdom",
+      "hostnames": [
+        "dc.ipa.itsg.host"
+      ],
+      "banner_snippet": "LDAP:\n  DefaultNamingContext: dc=ipa,dc=itsg,dc=host\n  NamingContexts:\n    cn=changelog\n    dc=ipa,dc=itsg,dc=host\n    o=ipaca\n  SubschemaSubentry: cn=schema\n  SupportedControl:\n    1.2.840.113556.1.4",
+      "ssl_cn": "dc.ipa.itsg.host"
+    },
+    {
+      "ip": "194.112.25.193",
+      "port": 636,
+      "org": "ecotel communication ag",
+      "country": "Germany",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "violet-dc-0.violet.internal"
+    },
+    {
+      "ip": "210.13.111.221",
+      "port": 636,
+      "org": "China Unicom ShangHai province network",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc.ssis.asia"
+    },
+    {
+      "ip": "162.55.77.217",
+      "port": 636,
+      "org": "Eschenlohr Providing",
+      "country": "Germany",
+      "hostnames": [
+        "rbt-dc-01.rainbowtrekkers.de"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts:\n    cn=internal\n    cn=translog\n    dc=rainbowtrekkers,dc=de\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    ",
+      "ssl_cn": "rbt-dc-01.rainbowtrekkers.de"
+    },
+    {
+      "ip": "195.52.126.143",
+      "port": 636,
+      "org": "ISM International School of Management",
+      "country": "Germany",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "do-ro-dc-2019.ism.local"
+    },
+    {
+      "ip": "193.170.45.218",
+      "port": 636,
+      "org": "Austrian School Network - EDUnet",
+      "country": "Austria",
+      "hostnames": [
+        "www.bisb.at"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-02.phb.intern"
+    },
+    {
+      "ip": "193.2.184.36",
+      "port": 636,
+      "org": "GIMNAZIJA SENTVID",
+      "country": "Slovenia",
+      "hostnames": [
+        "apolon.sentvid.org"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-apolon.gimsen.local"
+    },
+    {
+      "ip": "52.157.141.203",
+      "port": 636,
+      "org": "Microsoft Corporation",
+      "country": "Netherlands",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "prd-dc-01.Attentigroup.com"
+    },
+    {
+      "ip": "205.234.110.118",
+      "port": 636,
+      "org": "M3COM of Virginia, Inc",
+      "country": "United States",
+      "hostnames": [
+        "fw-equinix.dc-energy.com",
+        "duoequinix.dc-energy.com",
+        "duo.dc-energy.com"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=lan\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1.4203.1",
+      "ssl_cn": "duo.dc-energy.com"
+    },
+    {
+      "ip": "8.213.24.91",
+      "port": 636,
+      "org": "Alibaba Cloud (Singapore) Private Limited",
+      "country": "Saudi Arabia",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "madark-dc.ad.madark.sa"
+    },
+    {
+      "ip": "68.71.132.233",
+      "port": 636,
+      "org": "AccuWebHosting.com",
+      "country": "United States",
+      "hostnames": [
+        "mail.showmyevent.com"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260903103915.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=ubfinance,DC=net\n  DsServiceName: CN=NTDS Settings,CN=UBFINANCE-DC,CN=Servers,CN=Default-First-Si",
+      "ssl_cn": "ubfinance-dc.ubfinance.net"
+    },
+    {
+      "ip": "90.154.41.130",
+      "port": 636,
+      "org": "PJSC Rostelecom",
+      "country": "Russian Federation",
+      "hostnames": [],
+      "banner_snippet": "0\\x82\\x07\\r\\x02\\x01\\x02d\\x82\\x07\\x06\\x04\\x000\\x82\\x07\\x000?\\x04\\x1aconfigurationNamingContext1!\\x04\\x1fCN=Configuration,DC=dc,DC=local0(\\x04\\x14defaultNamingContext1\\x10\\x04\\x0eDC=dc,DC=local0+\\x04\\x1",
+      "ssl_cn": "MO.dc.local"
+    },
+    {
+      "ip": "62.54.255.122",
+      "port": 636,
+      "org": "Telefonica Germany GmbH & Co.OHG",
+      "country": "Germany",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "sprickbi-dc.Sprick.int"
+    },
+    {
+      "ip": "199.231.212.69",
+      "port": 636,
+      "org": "Enzu Inc",
+      "country": "United States",
+      "hostnames": [
+        "vrouter2.ord.webence.io"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-01.corp.qualitycorrectional.com"
+    },
+    {
+      "ip": "167.86.104.56",
+      "port": 636,
+      "org": "Contabo GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "ip-56-104-86-167.static.contabo.net"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260903065220.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=QubLab,DC=dc\n  DsServiceName: CN=NTDS Settings,CN=VMI268943,CN=Servers,CN=Default-First-Site-Name",
+      "ssl_cn": "vmi268943.QubLab.dc"
+    },
+    {
+      "ip": "212.87.238.34",
+      "port": 636,
+      "org": "The Network of TRAUGUTT School, Czestochowa",
+      "country": "Poland",
+      "hostnames": [],
+      "banner_snippet": "0\\x82\\x07I\\x02\\x01\\x02d\\x82\\x07B\\x04\\x000\\x82\\x07<0C\\x04\\x1aconfigurationNamingContext1%\\x04#CN=Configuration,DC=traugutt,DC=lan0,\\x04\\x14defaultNamingContext1\\x14\\x04\\x12DC=traugutt,DC=lan0/\\x04\\x17r",
+      "ssl_cn": "dc.traugutt.lan"
+    },
+    {
+      "ip": "49.77.246.100",
+      "port": 636,
+      "org": "CHINANET jiangsu province network",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260830214919.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=GPFSYS,DC=net\n  DsServiceName: CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Si",
+      "ssl_cn": "dc.gpfsys.net"
+    },
+    {
+      "ip": "3.32.222.225",
+      "port": 636,
+      "org": "Amazon.com, Inc.",
+      "country": "United States",
+      "hostnames": [
+        "ec2-3-32-222-225.us-gov-west-1.compute.amazonaws.com"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=sf,dc=priv\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1",
+      "ssl_cn": "dc=sf,dc=priv"
+    },
+    {
+      "ip": "177.125.175.2",
+      "port": 636,
+      "org": "YOU CAST COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA",
+      "country": "Brazil",
+      "hostnames": [
+        "177-125-175-2.static.sumicity.net.br"
+      ],
+      "banner_snippet": "0\\x82\\x08@\\x02\\x01\\x02d\\x82\\x089\\x04\\x000\\x82\\x0830O\\x04\\x1aconfigurationNamingContext11\\x04/CN=Configuration,DC=corp,DC=youcast,DC=tv,DC=br08\\x04\\x14defaultNamingContext1 \\x04\\x1eDC=corp,DC=youcast,D",
+      "ssl_cn": "yu-srv8-dc.corp.youcast.tv.br"
+    },
+    {
+      "ip": "13.74.134.134",
+      "port": 636,
+      "org": "Microsoft Corporation",
+      "country": "Ireland",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260829041608.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=jbemea,DC=local\n  DsServiceName: CN=NTDS Settings,CN=az-dc,CN=Servers,CN=Default-First-Site-Name,",
+      "ssl_cn": "az-dc.jbemea.local"
+    },
+    {
+      "ip": "66.203.34.154",
+      "port": 636,
+      "org": "Tri-Rivers Educational Computer Association",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260829034116.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=mcspresidents,DC=org\n  DsServiceName: CN=NTDS Settings,CN=MCS-DC-01,CN=Servers,CN=Default-First-S",
+      "ssl_cn": "mcs-dc-01.mcspresidents.org"
+    },
+    {
+      "ip": "49.77.246.102",
+      "port": 636,
+      "org": "CHINANET jiangsu province network",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260829032052.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=GPFSYS,DC=net\n  DsServiceName: CN=NTDS Settings,CN=DC,CN=Servers,CN=Default-First-Site-Name,CN=Si",
+      "ssl_cn": "dc.gpfsys.net"
+    },
+    {
+      "ip": "62.204.115.248",
+      "port": 636,
+      "org": "TEMP LOCK (ct01.blp001)",
+      "country": "Switzerland",
+      "hostnames": [
+        "ad.rit.zone",
+        "dc.ad.rit.zone",
+        "248-115-204-62.static.cable.qlnet.ch",
+        "dc.rit.zone"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc.ad.rit.zone"
+    },
+    {
+      "ip": "170.210.5.53",
+      "port": 636,
+      "org": "Red de Interconexion Universitaria",
+      "country": "Argentina",
+      "hostnames": [
+        "roam.riu.edu.ar"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=riu,dc=edu,dc=ar\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6",
+      "ssl_cn": "roam-dc"
+    },
+    {
+      "ip": "67.212.149.92",
+      "port": 636,
+      "org": "CoreSite",
+      "country": "United States",
+      "hostnames": [
+        "duonavisite.dc-energy.com",
+        "fw-navisite.dc-energy.com",
+        "duo.dc-energy.com"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=lan\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1.4203.1",
+      "ssl_cn": "duo.dc-energy.com"
+    },
+    {
+      "ip": "138.219.105.254",
+      "port": 636,
+      "org": "Acem Telecom Ltda",
+      "country": "Brazil",
+      "hostnames": [
+        "138-219-105-254.acem.net.br",
+        "dc.acem.net.br"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts:\n    cn=internal\n    cn=translog\n    dc=acem,dc=net,dc=br\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.",
+      "ssl_cn": "dc.acem.net.br"
+    },
+    {
+      "ip": "193.170.45.216",
+      "port": 636,
+      "org": "Austrian School Network - EDUnet",
+      "country": "Austria",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-02.phb.intern"
+    },
+    {
+      "ip": "24.144.92.217",
+      "port": 636,
+      "org": "DigitalOcean, LLC",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "0\\x82\\x07\"\\x02\\x01\\x02d\\x82\\x07\\x1b\\x04\\x000\\x82\\x07\\x150@\\x04\\x1aconfigurationNamingContext1\"\\x04 CN=Configuration,DC=ars,DC=local0)\\x04\\x14defaultNamingContext1\\x11\\x04\\x0fDC=ars,DC=local0,\\x04\\x17r",
+      "ssl_cn": "dc.ars.local"
+    },
+    {
+      "ip": "173.241.180.211",
+      "port": 636,
+      "org": "Consolidated Telcom",
+      "country": "United States",
+      "hostnames": [
+        "www.braunbt-dc-1.braunbt.com",
+        "mail.braunbt.com",
+        "braunbt-dc-1.braunbt.com"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260825032610.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=BraunBT,DC=local\n  DsServiceName: CN=NTDS Settings,CN=BRAUNBT-DC-1,CN=Servers,CN=Default-First-Si",
+      "ssl_cn": "braunbt-dc-1.braunbt.com"
+    },
+    {
+      "ip": "177.38.47.226",
+      "port": 636,
+      "org": "YOU CAST COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA",
+      "country": "Brazil",
+      "hostnames": [
+        "177.38.47.226.static.spacenetwork.psi.br"
+      ],
+      "banner_snippet": "0\\x82\\x08@\\x02\\x01\\x02d\\x82\\x089\\x04\\x000\\x82\\x0830O\\x04\\x1aconfigurationNamingContext11\\x04/CN=Configuration,DC=corp,DC=youcast,DC=tv,DC=br08\\x04\\x14defaultNamingContext1 \\x04\\x1eDC=corp,DC=youcast,D",
+      "ssl_cn": "yu-srv8-dc.corp.youcast.tv.br"
+    },
+    {
+      "ip": "89.106.235.189",
+      "port": 636,
+      "org": "Co-location",
+      "country": "Kazakhstan",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  DefaultNamingContext: dc=corp,dc=citix,dc=me\n  NamingContexts:\n    cn=changelog\n    dc=corp,dc=citix,dc=me\n    o=ipaca\n  SubschemaSubentry: cn=schema\n  SupportedControl:\n    1.2.840.113556.1.4",
+      "ssl_cn": "dc-01.corp.citix.me"
+    },
+    {
+      "ip": "40.38.70.110",
+      "port": 636,
+      "org": "Amazon.com, Inc.",
+      "country": "United States",
+      "hostnames": [
+        "ec2-40-38-70-110.us-gov-west-1.compute.amazonaws.com"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=sf,dc=priv\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1",
+      "ssl_cn": "dc=sf,dc=priv"
+    },
+    {
+      "ip": "193.170.45.220",
+      "port": 636,
+      "org": "Austrian School Network - EDUnet",
+      "country": "Austria",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "dc-02.phb.intern"
+    },
+    {
+      "ip": "3.30.60.218",
+      "port": 636,
+      "org": "Amazon.com, Inc.",
+      "country": "United States",
+      "hostnames": [
+        "ec2-3-30-60-218.us-gov-west-1.compute.amazonaws.com"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=sf,dc=priv\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1",
+      "ssl_cn": "dc=sf,dc=priv"
+    },
+    {
+      "ip": "52.186.169.81",
+      "port": 636,
+      "org": "Microsoft Corporation",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": "ad-dc-vm.autharva.azure"
+    }
+  ]
+}

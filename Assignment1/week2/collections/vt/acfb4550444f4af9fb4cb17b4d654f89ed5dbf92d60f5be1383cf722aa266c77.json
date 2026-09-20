@@ -1,0 +1,18 @@
+{
+  "sha256": "acfb4550444f4af9fb4cb17b4d654f89ed5dbf92d60f5be1383cf722aa266c77",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:12:33.772473+00:00",
+  "detections": "42/71",
+  "names": [
+    "SharpSuccessor.exe",
+    "7k6fpw.exe",
+    "y1son.exe"
+  ],
+  "tags": [
+    "assembly",
+    "spreader",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpSuccessor.exe"
+}

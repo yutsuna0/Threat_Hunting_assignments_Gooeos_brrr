@@ -1,0 +1,17 @@
+{
+  "sha256": "0a06de28c3a50a4370f222b90e280db2036ce26f2d8f538d2d44bb8c10eeaaf0",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:13:56.309458+00:00",
+  "detections": "38/71",
+  "names": [
+    "StandIn.exe",
+    "a087a271616da5cc8441d7cd5c975732"
+  ],
+  "tags": [
+    "peexe",
+    "assembly",
+    "detect-debug-environment"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "StandIn.exe"
+}

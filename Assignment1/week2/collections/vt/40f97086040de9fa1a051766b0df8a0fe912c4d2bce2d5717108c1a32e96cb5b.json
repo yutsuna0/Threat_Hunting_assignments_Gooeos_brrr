@@ -1,0 +1,17 @@
+{
+  "sha256": "40f97086040de9fa1a051766b0df8a0fe912c4d2bce2d5717108c1a32e96cb5b",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:04:02.950464+00:00",
+  "detections": "43/70",
+  "names": [
+    "GMSAPasswordReader.exe",
+    "q0flao1.exe"
+  ],
+  "tags": [
+    "assembly",
+    "peexe",
+    "detect-debug-environment"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "GMSAPasswordReader.exe"
+}

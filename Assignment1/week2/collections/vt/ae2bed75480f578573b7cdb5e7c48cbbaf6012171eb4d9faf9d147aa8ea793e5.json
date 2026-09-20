@@ -1,0 +1,16 @@
+{
+  "sha256": "ae2bed75480f578573b7cdb5e7c48cbbaf6012171eb4d9faf9d147aa8ea793e5",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:07:03.732997+00:00",
+  "detections": "52/72",
+  "names": [
+    "SharpBypassUAC.exe",
+    "SharpBypassUAC (7).exe"
+  ],
+  "tags": [
+    "peexe",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpBypassUAC.exe"
+}

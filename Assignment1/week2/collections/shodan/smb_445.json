@@ -1,0 +1,1004 @@
+{
+  "query_id": "smb_445",
+  "query": "port:445 os:\"Windows Server\" -google -microsoft",
+  "timestamp_utc": "2026-09-20T05:28:53.715864+00:00",
+  "total_shodan_index": 108752,
+  "results": [
+    {
+      "ip": "65.110.21.134",
+      "port": 445,
+      "org": "Cipherkey Exchange Corp.",
+      "country": "Canada",
+      "hostnames": [
+        "65.110.21.134.colo.970-b12.cipherkey.net"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 Standard 9200\n  Software: Windows Server 2012 Standard 6.2\n  Capabilities: extended-security, infolevel-passthru, large",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.77.151.174",
+      "port": 445,
+      "org": "Vultr Holdings, LLC",
+      "country": "United States",
+      "hostnames": [
+        "45.77.151.174.vultrusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: dfs, extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "84.44.121.238",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "202.29.60.126",
+      "port": 445,
+      "org": "Office of Info.Tech. Admin. for Educational Development",
+      "country": "Thailand",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2008 R2 Enterprise 7601 Service Pack 1\n  Software: Windows Server 2008 R2 Enterprise 6.1\n  Capabilities: extended-security, ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "23.88.39.146",
+      "port": 445,
+      "org": "Hetzner Online GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "static.146.39.88.23.clients.your-server.de"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter 14393\n  Software: Windows Server 2016 Datacenter 6.3\n  Capabilities: extended-security, infolevel-passthru, ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "133.20.182.248",
+      "port": 445,
+      "org": "Japan Network Information Center",
+      "country": "Japan",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2008 R2 Standard 7601 Service Pack 1\n  Software: Windows Server 2008 R2 Standard 6.1\n  Capabilities: extended-security, info",
+      "ssl_cn": null
+    },
+    {
+      "ip": "185.41.249.200",
+      "port": 445,
+      "org": "GIGATRANS UKRAINE, LLC",
+      "country": "Ukraine",
+      "hostnames": [
+        "cmail.tender.solutions"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Essentials 14393\n  Software: Windows Server 2016 Essentials 6.3\n  Capabilities: dfs, extended-security, infolevel-passt",
+      "ssl_cn": null
+    },
+    {
+      "ip": "130.94.65.46",
+      "port": 445,
+      "org": "NTT America, Inc.",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter 14393\n  Software: Windows Server 2016 Datacenter 6.3\n  Capabilities: extended-security, infolevel-passthru, ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "51.89.98.88",
+      "port": 445,
+      "org": "OVH GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "ns31170410.ip-51-89-98.eu"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.194.217",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "207.244.228.163",
+      "port": 445,
+      "org": "Contabo Inc.",
+      "country": "United States",
+      "hostnames": [
+        "vmi2407378.contaboserver.net"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.194.230",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "202.182.96.64",
+      "port": 445,
+      "org": "The Constant Company, LLC",
+      "country": "Japan",
+      "hostnames": [
+        "202.182.96.64.vultrusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "180.180.244.120",
+      "port": 445,
+      "org": "Internet Data Center Service",
+      "country": "Thailand",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "47.29.237.78",
+      "port": 445,
+      "org": "Reliance Jio infocomm ltd",
+      "country": "India",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2022 Datacenter 20348\n  Software: Windows Server 2022 Datacenter 6.3\n  Capabilities: dfs, extended-security, infolevel-passt",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.194.239",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "108.186.210.194",
+      "port": 445,
+      "org": "PEG TECH INC",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter 14393\n  Software: Windows Server 2016 Datacenter 6.3\n  Capabilities: extended-security, infolevel-passthru, ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.194.133",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter Evaluation 14393\n  Software: Windows Server 2016 Datacenter Evaluation 6.3\n  Capabilities: extended-security",
+      "ssl_cn": null
+    },
+    {
+      "ip": "38.173.30.86",
+      "port": 445,
+      "org": "Cogent Communications",
+      "country": "Hong Kong",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Datacenter 9600\n  Software: Windows Server 2012 R2 Datacenter 6.3\n  Capabilities: extended-security, infolevel-passt",
+      "ssl_cn": null
+    },
+    {
+      "ip": "8.215.204.122",
+      "port": 445,
+      "org": "Alibaba Cloud (Singapore) Private Limited",
+      "country": "Indonesia",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "213.187.69.171",
+      "port": 445,
+      "org": "Kunert Business Software GmbH",
+      "country": "Germany",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2019 Standard 17763\n  Software: Windows Server 2019 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "188.213.28.16",
+      "port": 445,
+      "org": "Techcrea Solutions SAS",
+      "country": "France",
+      "hostnames": [
+        "vps-84753.fhnet.fr"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.113.75",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter Evaluation 14393\n  Software: Windows Server 2016 Datacenter Evaluation 6.3\n  Capabilities: extended-security",
+      "ssl_cn": null
+    },
+    {
+      "ip": "167.179.103.159",
+      "port": 445,
+      "org": "The Constant Company, LLC",
+      "country": "Japan",
+      "hostnames": [
+        "167.179.103.159.vultrusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "137.97.51.124",
+      "port": 445,
+      "org": "Reliance Jio Infocomm Limited",
+      "country": "India",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2025 Datacenter 26100\n  Software: Windows Server 2025 Datacenter 6.3\n  Capabilities: extended-security, infolevel-passthru, ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.194.167",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter 14393\n  Software: Windows Server 2016 Datacenter 6.3\n  Capabilities: extended-security, infolevel-passthru, ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "151.236.54.85",
+      "port": 445,
+      "org": "Team Blue Carrier Limited",
+      "country": "United Kingdom",
+      "hostnames": [
+        "151-236-54-85.static.as29550.net"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "154.212.232.208",
+      "port": 445,
+      "org": "CloudFly Net Inc",
+      "country": "Hong Kong",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Datacenter 9600\n  Software: Windows Server 2012 R2 Datacenter 6.3\n  Capabilities: extended-security, infolevel-passt",
+      "ssl_cn": null
+    },
+    {
+      "ip": "197.210.194.196",
+      "port": 445,
+      "org": "MTN Nigeria",
+      "country": "Nigeria",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "106.51.76.163",
+      "port": 445,
+      "org": "Atria Convergence Technologies Pvt. Ltd.,",
+      "country": "India",
+      "hostnames": [
+        "106.51.76.163.actcorp.in"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "64.73.162.11",
+      "port": 445,
+      "org": "CDW Technologies LLC",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2003 3790 Service Pack 2\n  Software: Windows Server 2003 5.2\n  Capabilities: dfs, extended-security, infolevel-passthru, lar",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.194.222",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "207.244.228.77",
+      "port": 445,
+      "org": "Contabo Inc.",
+      "country": "United States",
+      "hostnames": [
+        "vmi438655.contaboserver.net"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Datacenter 9600\n  Software: Windows Server 2012 R2 Datacenter 6.3\n  Capabilities: extended-security, infolevel-passt",
+      "ssl_cn": null
+    },
+    {
+      "ip": "41.138.102.58",
+      "port": 445,
+      "org": "POOL OUAGA CENTRE  ONATEL",
+      "country": "Burkina Faso",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.113.77",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter Evaluation 14393\n  Software: Windows Server 2016 Datacenter Evaluation 6.3\n  Capabilities: extended-security",
+      "ssl_cn": null
+    },
+    {
+      "ip": "206.71.234.169",
+      "port": 445,
+      "org": "RCN",
+      "country": "United States",
+      "hostnames": [
+        "parkc142.p.subnet.rcn.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.194.146",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter Evaluation 14393\n  Software: Windows Server 2016 Datacenter Evaluation 6.3\n  Capabilities: extended-security",
+      "ssl_cn": null
+    },
+    {
+      "ip": "141.95.49.40",
+      "port": 445,
+      "org": "OVH Srl",
+      "country": "Germany",
+      "hostnames": [
+        "server2.agsware.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "83.212.171.83",
+      "port": 445,
+      "org": "GRNET Virtual Machines",
+      "country": "Greece",
+      "hostnames": [
+        "aiolos2.teiion.gr"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "193.243.201.132",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "79.129.78.202",
+      "port": 445,
+      "org": "Ote SA (Hellenic Telecommunications Organisation)",
+      "country": "Greece",
+      "hostnames": [
+        "host10.lifesos.ondsl.gr"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server (R) 2008 Standard 6003 Service Pack 2\n  Software: Windows Server (R) 2008 Standard 6.0\n  Capabilities: extended-security, i",
+      "ssl_cn": null
+    },
+    {
+      "ip": "190.166.239.42",
+      "port": 445,
+      "org": "Consorcio Video Gaming International",
+      "country": "Dominican Republic",
+      "hostnames": [
+        "42.239.166.190.f.sta.codetel.net.do"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "103.82.53.133",
+      "port": 445,
+      "org": "Asia Pacific Network Information Centre",
+      "country": "Hong Kong",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2008 R2 Enterprise 7601 Service Pack 1\n  Software: Windows Server 2008 R2 Enterprise 6.1\n  Capabilities: extended-security, ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.194.221",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "139.162.176.241",
+      "port": 445,
+      "org": "139.162.0.0/16",
+      "country": "Germany",
+      "hostnames": [
+        "139-162-176-241.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.194.233",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "51.89.160.151",
+      "port": 445,
+      "org": "IsabellaR Wouters",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ip151.ip-51-89-160.eu"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.194.147",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter Evaluation 14393\n  Software: Windows Server 2016 Datacenter Evaluation 6.3\n  Capabilities: extended-security",
+      "ssl_cn": null
+    },
+    {
+      "ip": "111.118.223.168",
+      "port": 445,
+      "org": "Entity Data Pty Limited",
+      "country": "Australia",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2019 Standard 17763\n  Software: Windows Server 2019 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "193.243.201.130",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "172.104.144.223",
+      "port": 445,
+      "org": "Linode",
+      "country": "Germany",
+      "hostnames": [
+        "172-104-144-223.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.76.215.227",
+      "port": 445,
+      "org": "Vultr Holdings, LLC",
+      "country": "Japan",
+      "hostnames": [
+        "45.76.215.227.vultrusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "172.105.78.155",
+      "port": 445,
+      "org": "Linode",
+      "country": "Germany",
+      "hostnames": [
+        "172-105-78-155.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "61.28.233.215",
+      "port": 445,
+      "org": "VI NA DATA INFORMATION TECHNOLOGY - SERVICE JOINT STOCK COMPANY",
+      "country": "Viet Nam",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "202.29.80.111",
+      "port": 445,
+      "org": "Office of Info.Tech. Admin. for Educational Development",
+      "country": "Thailand",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 Standard 9200\n  Software: Windows Server 2012 Standard 6.2\n  Capabilities: extended-security, infolevel-passthru, large",
+      "ssl_cn": null
+    },
+    {
+      "ip": "206.198.148.156",
+      "port": 445,
+      "org": "Kyndryl",
+      "country": "United States",
+      "hostnames": [
+        "206-198-148-156.cloud.skytap.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2019 Standard 17763\n  Software: Windows Server 2019 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "161.132.217.215",
+      "port": 445,
+      "org": "Red Cientifica Peruana",
+      "country": "Peru",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.56.76.53",
+      "port": 445,
+      "org": "Linode",
+      "country": "United States",
+      "hostnames": [
+        "45-56-76-53.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "176.58.115.197",
+      "port": 445,
+      "org": "Linode, LLC",
+      "country": "United Kingdom",
+      "hostnames": [
+        "176-58-115-197.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "172.104.252.10",
+      "port": 445,
+      "org": "Linode",
+      "country": "Germany",
+      "hostnames": [
+        "172-104-252-10.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "139.144.201.31",
+      "port": 445,
+      "org": "Linode",
+      "country": "United States",
+      "hostnames": [
+        "139-144-201-31.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "41.33.113.68",
+      "port": 445,
+      "org": "TE Data",
+      "country": "Egypt",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2022 Standard 20348\n  Software: Windows Server 2022 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.209.153",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "198.58.112.247",
+      "port": 445,
+      "org": "Linode",
+      "country": "United States",
+      "hostnames": [
+        "198-58-112-247.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "223.27.17.77",
+      "port": 445,
+      "org": "Hostopia Australia Web Pty Ltd",
+      "country": "Australia",
+      "hostnames": [
+        "vmh20787.hosting24.com.au"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "185.136.15.36",
+      "port": 445,
+      "org": "Solutions Factory Ltd.",
+      "country": "Kazakhstan",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter 14393\n  Software: Windows Server 2016 Datacenter 6.3\n  Capabilities: extended-security, infolevel-passthru, ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "139.162.229.77",
+      "port": 445,
+      "org": "139.162.0.0/16",
+      "country": "United Kingdom",
+      "hostnames": [
+        "139-162-229-77.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "106.51.36.72",
+      "port": 445,
+      "org": "Atria Convergence Technologies Pvt. Ltd.,",
+      "country": "India",
+      "hostnames": [
+        "106.51.36.72.actcorp.in"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2008 R2 Standard 7601 Service Pack 1\n  Software: Windows Server 2008 R2 Standard 6.1\n  Capabilities: extended-security, inf",
+      "ssl_cn": null
+    },
+    {
+      "ip": "51.89.160.148",
+      "port": 445,
+      "org": "IsabellaR Wouters",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ip148.ip-51-89-160.eu"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "190.64.80.98",
+      "port": 445,
+      "org": "CLIENTE ANTEL URUGUAY",
+      "country": "Uruguay",
+      "hostnames": [
+        "r190-64-80-98.su-static.adinet.com.uy"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "66.228.62.242",
+      "port": 445,
+      "org": "Linode",
+      "country": "United States",
+      "hostnames": [
+        "66-228-62-242.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "210.138.207.30",
+      "port": 445,
+      "org": "Terasaki Electric Co., LTD.",
+      "country": "Japan",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "192.119.108.174",
+      "port": 445,
+      "org": "Hostwinds LLC.",
+      "country": "United States",
+      "hostnames": [
+        "client-192-119-108-174.hostwindsdns.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "62.244.198.205",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Datacenter Evaluation 14393\n  Software: Windows Server 2016 Datacenter Evaluation 6.3\n  Capabilities: extended-security",
+      "ssl_cn": null
+    },
+    {
+      "ip": "115.240.24.125",
+      "port": 445,
+      "org": "Reliance Jio Infocomm Limited",
+      "country": "India",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "206.75.69.37",
+      "port": 445,
+      "org": "ADVANCED KNOWLEDGE NETWORKS INC.",
+      "country": "Canada",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "84.44.4.246",
+      "port": 445,
+      "org": "Borusan Telekom Serial Network",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "83.233.207.95",
+      "port": 445,
+      "org": "Bredband2 AB",
+      "country": "Sweden",
+      "hostnames": [
+        "83-233-207-95.cust.bredband2.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2019 Standard 17763\n  Software: Windows Server 2019 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "139.162.149.212",
+      "port": 445,
+      "org": "139.162.0.0/16",
+      "country": "Germany",
+      "hostnames": [
+        "139-162-149-212.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "136.232.179.26",
+      "port": 445,
+      "org": "Reliance Jio Infocomm Limited",
+      "country": "India",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "185.14.56.103",
+      "port": 445,
+      "org": "GRUPO SYS4NET, S.L.",
+      "country": "Spain",
+      "hostnames": [
+        "angelplus-04.dnspropio.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "50.116.8.228",
+      "port": 445,
+      "org": "Linode",
+      "country": "United States",
+      "hostnames": [
+        "50-116-8-228.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "202.125.95.41",
+      "port": 445,
+      "org": "Gunadarma University",
+      "country": "Indonesia",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2019 Standard 17763\n  Software: Windows Server 2019 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "8.213.134.145",
+      "port": 445,
+      "org": "Alibaba Cloud South Korea",
+      "country": "Korea, Republic of",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: disabled\n  SMB Version: 1\n  OS: Windows Server 2019\n  Software: Windows Server 2019\n  Capabilities: extended-security, large-files, large-readx, nt-smb, nt-status, unicod",
+      "ssl_cn": null
+    },
+    {
+      "ip": "59.124.86.174",
+      "port": 445,
+      "org": "Chunghwa Telecom Co.,Ltd.",
+      "country": "Taiwan",
+      "hostnames": [
+        "59-124-86-174.hinet-ip.hinet.net"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "116.203.144.46",
+      "port": 445,
+      "org": "Hetzner Online GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "static.46.144.203.116.clients.your-server.de"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "136.144.178.170",
+      "port": 445,
+      "org": "TransIP BV",
+      "country": "Netherlands",
+      "hostnames": [
+        "136-144-178-170.colo.transip.net"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.209.158",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "54.36.227.73",
+      "port": 445,
+      "org": "OVH Ltd",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ip73.ip-54-36-227.eu"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Essentials 9600\n  Software: Windows Server 2012 R2 Essentials 6.3\n  Capabilities: dfs, extended-security, infolevel-",
+      "ssl_cn": null
+    },
+    {
+      "ip": "52.117.206.46",
+      "port": 445,
+      "org": "IBM Cloud",
+      "country": "United States",
+      "hostnames": [
+        "2e.ce.7534.ip4.static.sl-reverse.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "68.68.103.54",
+      "port": 445,
+      "org": "Kerio Technologies Inc.",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "98.142.98.89",
+      "port": 445,
+      "org": "HostDime.com, Inc.",
+      "country": "United States",
+      "hostnames": [
+        "98-142-98-89.static.hostdime.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2008 R2 Enterprise 7601 Service Pack 1\n  Software: Windows Server 2008 R2 Enterprise 6.1\n  Capabilities: extended-security, ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.209.156",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "81.144.241.219",
+      "port": 445,
+      "org": "FTIP003372968 Nigerian National Petroleum Corporation",
+      "country": "United Kingdom",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2012 R2 Standard 9600\n  Software: Windows Server 2012 R2 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "84.44.28.231",
+      "port": 445,
+      "org": "VFNET-KURUMSAL",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.87.209.139",
+      "port": 445,
+      "org": "Vodafone Net Iletisim Hizmetler AS",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard Evaluation 14393\n  Software: Windows Server 2016 Standard Evaluation 6.3\n  Capabilities: extended-security, in",
+      "ssl_cn": null
+    },
+    {
+      "ip": "188.244.20.123",
+      "port": 445,
+      "org": "StarNet Solutii SRL",
+      "country": "Moldova, Republic of",
+      "hostnames": [
+        "188-244-20-123.starnet.md"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: dfs, extended-security, infolevel-passthru,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "98.142.98.87",
+      "port": 445,
+      "org": "HostDime.com, Inc.",
+      "country": "United States",
+      "hostnames": [
+        "98-142-98-87.static.hostdime.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2008 R2 Enterprise 7601 Service Pack 1\n  Software: Windows Server 2008 R2 Enterprise 6.1\n  Capabilities: extended-security, ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "84.44.28.226",
+      "port": 445,
+      "org": "VFNET-KURUMSAL",
+      "country": "Turkey",
+      "hostnames": [],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    },
+    {
+      "ip": "108.160.131.102",
+      "port": 445,
+      "org": "Vultr Holdings, LLC",
+      "country": "Japan",
+      "hostnames": [
+        "108.160.131.102.vultrusercontent.com"
+      ],
+      "banner_snippet": "SMB Status:\n  Authentication: enabled\n  SMB Version: 1\n  OS: Windows Server 2016 Standard 14393\n  Software: Windows Server 2016 Standard 6.3\n  Capabilities: extended-security, infolevel-passthru, larg",
+      "ssl_cn": null
+    }
+  ]
+}

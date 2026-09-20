@@ -1,0 +1,1036 @@
+{
+  "query_id": "ldap_rootdse",
+  "query": "port:389 \"namingContexts\"",
+  "timestamp_utc": "2026-09-20T05:28:45.265308+00:00",
+  "total_shodan_index": 27694,
+  "results": [
+    {
+      "ip": "64.226.100.177",
+      "port": 389,
+      "org": "DigitalOcean, LLC",
+      "country": "Germany",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=cisuatdev,dc=local\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.56.71.80",
+      "port": 389,
+      "org": "Linode",
+      "country": "United States",
+      "hostnames": [
+        "45-56-71-80.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920052221.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=core-c,DC=net,DC=io\n  DsServiceName: CN=NTDS Settings,CN=AD1,CN=Servers,CN=Default-First-Site-Nam",
+      "ssl_cn": null
+    },
+    {
+      "ip": "77.81.231.64",
+      "port": 389,
+      "org": "Cloud And More Srl",
+      "country": "Italy",
+      "hostnames": [
+        "host64-231-81-77.serverdedicati.aruba.it"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920052257.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=GPH,DC=local\n  DsServiceName: CN=NTDS Settings,CN=WIN-60DFPJFBJ3R,CN=Servers,CN=Default-First-Sit",
+      "ssl_cn": null
+    },
+    {
+      "ip": "192.159.142.145",
+      "port": 389,
+      "org": "Sipbound Corporation",
+      "country": "United States",
+      "hostnames": [
+        "192.159.142.145.hosted.at.cloudsouth.com"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "59.37.27.197",
+      "port": 389,
+      "org": "CHINANET Guangdong province network",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: o=magicwinmail\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.1339\n    1.2.840.113556.1.4.1340\n    1.2.840.113556.1.4.1413\n    1.2.840.113556.1.4.319\n  ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "207.180.229.159",
+      "port": 389,
+      "org": "Contabo GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "vmd198636.contaboserver.net"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts:\n    cn=internal\n    cn=translog\n    dc=verni,dc=de\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "118.190.159.9",
+      "port": 389,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920051843.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=alpha-b,DC=enterprise,DC=com\n  DsServiceName: CN=NTDS Settings,CN=AD1,CN=Servers,CN=Default-First",
+      "ssl_cn": null
+    },
+    {
+      "ip": "119.252.78.68",
+      "port": 389,
+      "org": "Zettagrid Pty Ltd",
+      "country": "Australia",
+      "hostnames": [
+        "119-252-78-68.hosting.zettagrid.net"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=cus004,dc=cloudfire.com.au\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22",
+      "ssl_cn": null
+    },
+    {
+      "ip": "122.56.53.66",
+      "port": 389,
+      "org": "SPARK NEW ZEALAND TRADING LIMITED",
+      "country": "New Zealand",
+      "hostnames": [
+        "122-56-53-66.gis.global-gateway.net.nz"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: o=govt,c=nz\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1.4",
+      "ssl_cn": null
+    },
+    {
+      "ip": "93.190.169.5",
+      "port": 389,
+      "org": "Artonezero Limited",
+      "country": "United Kingdom",
+      "hostnames": [
+        "rossetti.artonezero.com"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=artonezero,dc=com\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.4.1.4203.1.10",
+      "ssl_cn": null
+    },
+    {
+      "ip": "84.88.175.250",
+      "port": 389,
+      "org": "Institut Nacional d'Educacio Fisica de Catalunya centre de Barcelona",
+      "country": "Spain",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920051658.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=inefc,DC=local\n  DsServiceName: CN=NTDS Settings,CN=INEFC11AD,CN=Servers,CN=Nombre-predeterminado",
+      "ssl_cn": null
+    },
+    {
+      "ip": "203.113.132.34",
+      "port": 389,
+      "org": "Vietnam National Science and Technology Center",
+      "country": "Viet Nam",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=ldap,dc=neu,dc=edu,dc=vn\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "60.248.163.28",
+      "port": 389,
+      "org": "Chunghwa Telecom Co.,Ltd.",
+      "country": "Taiwan",
+      "hostnames": [
+        "60-248-163-28.hinet-ip.hinet.net"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920051333.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=YOHOFATE,DC=CORP\n  DsServiceName: CN=NTDS Settings,CN=DC01,CN=Servers,CN=TAIPEI-MASTER,CN=Sites,C",
+      "ssl_cn": null
+    },
+    {
+      "ip": "190.60.28.38",
+      "port": 389,
+      "org": "IFX NETWORKS COLOMBIA",
+      "country": "Colombia",
+      "hostnames": [
+        "38.28.60.190.host.ifxnetworks.com"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "65.109.200.173",
+      "port": 389,
+      "org": "Hetzner Online GmbH",
+      "country": "Finland",
+      "hostnames": [
+        "static.173.200.109.65.clients.your-server.de"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "31.220.85.2",
+      "port": 389,
+      "org": "Contabo GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "mail.coretap.my.id"
+      ],
+      "banner_snippet": "LDAP:\n  ConfigurationNamingContext: CN=Configuration,DC=hq,DC=devbni,DC=local\n  DefaultNamingContext: DC=hq,DC=devbni,DC=local\n  RootDomainNamingContext: DC=hq,DC=devbni,DC=local\n  SchemaNamingContext",
+      "ssl_cn": null
+    },
+    {
+      "ip": "50.100.5.149",
+      "port": 389,
+      "org": "Equinix, Inc.",
+      "country": "Canada",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "135.148.90.105",
+      "port": 389,
+      "org": "OVH US LLC",
+      "country": "United States",
+      "hostnames": [
+        "ip105.ip-135-148-90.us"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "200.150.108.77",
+      "port": 389,
+      "org": "Ligga Telecomunicações S.A.",
+      "country": "Brazil",
+      "hostnames": [
+        "77.108.150.200.static.liggatelecom.com.br"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=camilo,dc=com,dc=br\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "193.48.225.201",
+      "port": 389,
+      "org": "CentraleSupelec",
+      "country": "France",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=federez,dc=net\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "147.124.212.244",
+      "port": 389,
+      "org": "Majestic Hosting Solutions, LLC",
+      "country": "United States",
+      "hostnames": [
+        "postal.weismannweb.com"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "185.216.10.111",
+      "port": 389,
+      "org": "365 IT SAS",
+      "country": "France",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920045829.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=Argeco,DC=local\n  DsServiceName: CN=NTDS Settings,CN=WIN2012-AD,CN=Servers,CN=Default-First-Site-",
+      "ssl_cn": null
+    },
+    {
+      "ip": "187.224.13.239",
+      "port": 389,
+      "org": "Uninet S.A. de C.V.",
+      "country": "Mexico",
+      "hostnames": [
+        "dsl-239-13-224-187-dynamic.prod-infinitum.com.mx"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "138.197.27.212",
+      "port": 389,
+      "org": "DigitalOcean, LLC",
+      "country": "United States",
+      "hostnames": [
+        "ds0.no-more.kiev.ua"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=no-more\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1.42",
+      "ssl_cn": null
+    },
+    {
+      "ip": "46.27.36.6",
+      "port": 389,
+      "org": "VODAFONE ESPANA, S.A.U",
+      "country": "Spain",
+      "hostnames": [
+        "static-6-36-27-46.ipcom.comunitel.net"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "80.11.80.204",
+      "port": 389,
+      "org": "LNAUB657 Aubervilliers",
+      "country": "France",
+      "hostnames": [
+        "lmontsouris-657-1-209-204.w80-11.abo.wanadoo.fr"
+      ],
+      "banner_snippet": "LDAP:\n  ConfigurationNamingContext: CN=Configuration,DC=jrc,DC=local\n  DefaultNamingContext: DC=jrc,DC=local\n  RootDomainNamingContext: DC=jrc,DC=local\n  SchemaNamingContext: CN=Schema,CN=Configuratio",
+      "ssl_cn": null
+    },
+    {
+      "ip": "23.90.69.128",
+      "port": 389,
+      "org": "OrionVM Inc",
+      "country": "United States",
+      "hostnames": [
+        "23-90-69-128.dc1.orionvm.net"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "172.234.64.71",
+      "port": 389,
+      "org": "Linode",
+      "country": "United States",
+      "hostnames": [
+        "172-234-64-71.ip.linodeusercontent.com"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920045253.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=apex-d,DC=global,DC=net\n  DsServiceName: CN=NTDS Settings,CN=AD2,CN=Servers,CN=Default-First-Site",
+      "ssl_cn": null
+    },
+    {
+      "ip": "51.15.216.141",
+      "port": 389,
+      "org": "Scaleway - Paris, France",
+      "country": "France",
+      "hostnames": [
+        "gent.commonscloud.coop"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=commonscloud,dc=coop\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "167.172.170.37",
+      "port": 389,
+      "org": "DigitalOcean, LLC",
+      "country": "Germany",
+      "hostnames": [
+        "zavadatar.dev"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=zavadatar,dc=com\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.4.1.4203.1.10.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "201.184.111.93",
+      "port": 389,
+      "org": "UNE EPM TELECOMUNICACIONES S.A.",
+      "country": "Colombia",
+      "hostnames": [
+        "static-adsl201-184-111-93.une.net.co"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920045045.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=dc,DC=local\n  DsServiceName: CN=NTDS Settings,CN=SERVER,CN=Servers,CN=Default-First-Site-Name,CN=",
+      "ssl_cn": null
+    },
+    {
+      "ip": "116.7.247.34",
+      "port": 389,
+      "org": "CHINANET Guangdong province network",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920045018.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=medcaptain,DC=cn\n  DsServiceName: CN=NTDS Settings,CN=SER-AD1,CN=Servers,CN=DefaultDC,CN=Sites,CN",
+      "ssl_cn": null
+    },
+    {
+      "ip": "160.119.248.175",
+      "port": 389,
+      "org": "VPS Hostafrica",
+      "country": "South Africa",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "144.126.147.33",
+      "port": 389,
+      "org": "Contabo Inc.",
+      "country": "United States",
+      "hostnames": [
+        "vmi3458002.contaboserver.net"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "201.219.223.29",
+      "port": 389,
+      "org": "ITELKOM",
+      "country": "Colombia",
+      "hostnames": [
+        "29-223-219-201.static.itelkom.co"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=dcm4che,dc=org\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "111.68.97.185",
+      "port": 389,
+      "org": "PERN-Pakistan Education & Research Network is an",
+      "country": "Pakistan",
+      "hostnames": [
+        "111.68.97.185.iiu.edu.pk"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "87.98.163.146",
+      "port": 389,
+      "org": "OVH SAS",
+      "country": "France",
+      "hostnames": [
+        "ip146.ip-87-98-163.eu"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "84.242.9.222",
+      "port": 389,
+      "org": "Nessus GmbH",
+      "country": "Austria",
+      "hostnames": [
+        "ip084242009222.rev.nessus.at"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: c=AT\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1.4203.1.1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "133.242.238.173",
+      "port": 389,
+      "org": "SAKURA Internet Inc.",
+      "country": "Japan",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=slave-db1,dc=osora-pbx,dc=jp\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "102.119.210.134",
+      "port": 389,
+      "org": "Mauritius Telecom Ltd",
+      "country": "Mauritius",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: fn=ContactRoot\n  DefaultNamingContext: fn=ContactRoot\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2.840.113556.1.4.473\n    1.2.840.113556.1.4.474",
+      "ssl_cn": null
+    },
+    {
+      "ip": "192.99.179.197",
+      "port": 389,
+      "org": "OVH SAS",
+      "country": "Canada",
+      "hostnames": [
+        "ip197.ip-192-99-179.net"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "94.130.149.87",
+      "port": 389,
+      "org": "Hetzner Online GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "static.87.149.130.94.clients.your-server.de"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=ldap,dc=kroepelin-projekte,dc=de\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "217.15.165.78",
+      "port": 389,
+      "org": "Contabo GmbH",
+      "country": "Singapore",
+      "hostnames": [
+        "vmi2194975.contaboserver.net"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=company,dc=co,dc=id\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.132.247.201",
+      "port": 389,
+      "org": "netcup GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "v220221263543212039.supersrv.de"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=trebels,dc=com\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "51.38.46.202",
+      "port": 389,
+      "org": "OVH SAS",
+      "country": "France",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=phonebook,dc=ara\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6",
+      "ssl_cn": null
+    },
+    {
+      "ip": "154.241.39.139",
+      "port": 389,
+      "org": "Telecom Algeria",
+      "country": "Algeria",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "177.102.74.237",
+      "port": 389,
+      "org": "TELEFÔNICA BRASIL S.A",
+      "country": "Brazil",
+      "hostnames": [
+        "177-102-74-237.dsl.telesp.net.br"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920043805.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=celack,DC=local\n  DsServiceName: CN=NTDS Settings,CN=CELAC,CN=Servers,CN=Default-First-Site-Name,",
+      "ssl_cn": null
+    },
+    {
+      "ip": "37.139.41.10",
+      "port": 389,
+      "org": "VK Cloud Solutions",
+      "country": "Russian Federation",
+      "hostnames": [
+        "10.mcs.mail.ru"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "188.66.60.112",
+      "port": 389,
+      "org": "Yelles AB",
+      "country": "Sweden",
+      "hostnames": [
+        "noptr.inleed.net"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.129.180.248",
+      "port": 389,
+      "org": "netcup GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "v220200677898121298.ultrasrv.de"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "95.154.213.38",
+      "port": 389,
+      "org": "Smarter In Design",
+      "country": "United Kingdom",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "201.140.129.15",
+      "port": 389,
+      "org": "Alestra Innovacion Digital S de RL de CV",
+      "country": "Mexico",
+      "hostnames": [
+        "noctj5.gtel.net.mx"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920045358.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=noctj5,DC=gtel,DC=net,DC=mx\n  DsServiceName: CN=NTDS Settings,CN=NOCTJ5,CN=Servers,CN=Default-Fir",
+      "ssl_cn": null
+    },
+    {
+      "ip": "111.161.115.36",
+      "port": 389,
+      "org": "China Unicom Tianjin province network",
+      "country": "China",
+      "hostnames": [
+        "dns36.online.tj.cn"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=foxcn,dc=com\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4",
+      "ssl_cn": null
+    },
+    {
+      "ip": "74.87.107.202",
+      "port": 389,
+      "org": "Charter Communications Inc",
+      "country": "United States",
+      "hostnames": [
+        "syn-074-087-107-202.biz.spectrum.com"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920043227.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=firstcity,DC=org\n  DsServiceName: CN=NTDS Settings,CN=COLCH-CITYHALL,CN=Servers,CN=Cityhall,CN=Si",
+      "ssl_cn": null
+    },
+    {
+      "ip": "168.235.88.66",
+      "port": 389,
+      "org": "RAMNODE",
+      "country": "United States",
+      "hostnames": [
+        "168-235-88-66.cloud.ramnode.com"
+      ],
+      "banner_snippet": "LDAP:\n  DomainFunctionality: 7\n  ForestFunctionality: 7\n  DomainControllerFunctionality: 7\n  RootDomainNamingContext: DC=node20,DC=internal\n  LdapServiceName: node20.internal:node20$@NODE20.INTERNAL\n ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "157.125.174.98",
+      "port": 389,
+      "org": "Gamma Telecom Limited",
+      "country": "United Kingdom",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "173.234.26.109",
+      "port": 389,
+      "org": "Dedicated.com",
+      "country": "United States",
+      "hostnames": [
+        "lts15.legalcasereporter.com"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "167.71.8.128",
+      "port": 389,
+      "org": "DigitalOcean, LLC",
+      "country": "Netherlands",
+      "hostnames": [
+        "master.wolfined.net"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=wolfined,dc=com\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.125.220.35",
+      "port": 389,
+      "org": "Carnival Internet",
+      "country": "Bangladesh",
+      "hostnames": [
+        "45-125-220-35.mymensingh.carnival.com.bd"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=pbx,dc=com\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "185.148.147.129",
+      "port": 389,
+      "org": "Belcloud LTD",
+      "country": "Bulgaria",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "185.52.189.238",
+      "port": 389,
+      "org": "Xidras GmbH",
+      "country": "Austria",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=magora,dc=com\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "66.119.99.87",
+      "port": 389,
+      "org": "Blue Ridge Mountain Electric Membership Corporation - BRM EMC",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=mountainlakepub,dc=dyndns,dc=org\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "134.65.252.217",
+      "port": 389,
+      "org": "Oracle Corporation",
+      "country": "Brazil",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=eskelsen,dc=net\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.134.181.69",
+      "port": 389,
+      "org": "INTRED S.P.A.",
+      "country": "Italy",
+      "hostnames": [
+        "host-195.134.181-69.pool.intred.it"
+      ],
+      "banner_snippet": "LDAP:\n  DefaultNamingContext: dc=meta\n  HighestCommittedUSN: 5394262\n  NamingContexts:\n    dc=configuration\n    dc=meta\n    dc=phonebooks\n    dc=web\n  SubschemaSubentry: dc=configuration\n  SupportedCo",
+      "ssl_cn": null
+    },
+    {
+      "ip": "109.207.76.69",
+      "port": 389,
+      "org": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+      "country": "Israel",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "64.71.179.26",
+      "port": 389,
+      "org": "Hurricane Electric LLC",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "185.68.250.75",
+      "port": 389,
+      "org": "Fonira Telekom GmbH",
+      "country": "Austria",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts:\n    dc=ff,dc=kindtal,dc=at\n    dc=fladi,dc=at\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "145.239.67.239",
+      "port": 389,
+      "org": "OVH SAS",
+      "country": "France",
+      "hostnames": [
+        "ns3084011.ip-145-239-67.eu"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "94.176.211.142",
+      "port": 389,
+      "org": "DataWeb Global Group B.V.",
+      "country": "Netherlands",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  DefaultNamingContext: dc=dev-kingz,dc=com\n  NamingContexts:\n    cn=changelog\n    dc=dev-kingz,dc=com\n    o=ipaca\n  SubschemaSubentry: cn=schema\n  SupportedControl:\n    1.2.840.113556.1.4.319\n ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "195.89.232.140",
+      "port": 389,
+      "org": "VODAFONE ENTERPRISE EQUIPMENT LIMITED",
+      "country": "United Kingdom",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "58.246.162.190",
+      "port": 389,
+      "org": "Shanghai NanLong Co,Ltd",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "89.1.28.205",
+      "port": 389,
+      "org": "Netcologne GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "static-89-1-28-205.netcologne.de"
+      ],
+      "banner_snippet": "LDAP:\n  ConfigurationNamingContext: CN=Configuration,DC=ads,DC=blau-weiss-hand,DC=de\n  DefaultNamingContext: DC=ads,DC=blau-weiss-hand,DC=de\n  RootDomainNamingContext: DC=ads,DC=blau-weiss-hand,DC=de\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "91.81.30.201",
+      "port": 389,
+      "org": "Vodafone Italia S.p.A.",
+      "country": "Italy",
+      "hostnames": [
+        "net-91-81-30-201.cust.vodafonedsl.it"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: fn=ContactRoot\n  DefaultNamingContext: fn=ContactRoot\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2.840.113556.1.4.473\n    1.2.840.113556.1.4.474",
+      "ssl_cn": null
+    },
+    {
+      "ip": "103.28.39.94",
+      "port": 389,
+      "org": "NhanHoa Software Company",
+      "country": "Viet Nam",
+      "hostnames": [
+        "mail.vnoptictech.com.vn"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: fn=ContactRoot\n  DefaultNamingContext: fn=ContactRoot\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2.840.113556.1.4.473\n    1.2.840.113556.1.4.474",
+      "ssl_cn": null
+    },
+    {
+      "ip": "126.209.102.38",
+      "port": 389,
+      "org": "BBIX, Inc.",
+      "country": "Japan",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "91.230.156.209",
+      "port": 389,
+      "org": "Piotr Platek trading as Platkom Tele-Informatyka",
+      "country": "Poland",
+      "hostnames": [
+        "91-230-156-209.revdns.platkom.pl"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: o=ALLFILS,dc=local\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.11.248.194",
+      "port": 389,
+      "org": "Business lines",
+      "country": "Germany",
+      "hostnames": [
+        "hypatia.paranoidlabs.org"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: o=plabs\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1.42.2.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "61.221.229.168",
+      "port": 389,
+      "org": "Data Communication Business Group,",
+      "country": "Taiwan",
+      "hostnames": [
+        "61-221-229-168.hinet-ip.hinet.net"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=ldap\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1.4203.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "39.104.23.154",
+      "port": 389,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920041322.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=apex-a,DC=global,DC=io\n  DsServiceName: CN=NTDS Settings,CN=AD2,CN=Servers,CN=Default-First-Site-",
+      "ssl_cn": null
+    },
+    {
+      "ip": "157.143.75.109",
+      "port": 389,
+      "org": "Nexphone AG",
+      "country": "Switzerland",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=arthro-med-gmbh,dc=vpbx\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n  ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "61.7.239.77",
+      "port": 389,
+      "org": "National Telecom Public Company Limited 72 Charoenkrung Road Bangrak Bangkok THAILAND 10501",
+      "country": "Thailand",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "128.169.0.55",
+      "port": 389,
+      "org": "University of Tennessee",
+      "country": "United States",
+      "hostnames": [
+        "directory5.uthsc.edu"
+      ],
+      "banner_snippet": "LDAP:\n  DefaultNamingContext: dc=tennessee,dc=edu\n  NamingContexts: dc=tennessee,dc=edu\n  SubschemaSubentry: cn=schema\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2.840.113556.1.4.473\n    1.3",
+      "ssl_cn": null
+    },
+    {
+      "ip": "62.38.163.219",
+      "port": 389,
+      "org": "VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA",
+      "country": "Greece",
+      "hostnames": [
+        "static062038163219.dsl.hol.gr"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: fn=ContactRoot\n  DefaultNamingContext: fn=ContactRoot\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2.840.113556.1.4.473\n    1.2.840.113556.1.4.474",
+      "ssl_cn": null
+    },
+    {
+      "ip": "156.17.188.236",
+      "port": 389,
+      "org": "Wroclaw Centre of Networking and Supercomputing",
+      "country": "Poland",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920041030.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,CN={F19410B6-3323-4F49-97CA-037AB4A38BDB}\n  DsServiceName: CN=NTDS Settings,CN=WIN2016$instance1,CN=",
+      "ssl_cn": null
+    },
+    {
+      "ip": "91.205.230.141",
+      "port": 389,
+      "org": "HostRoyale Technologies Pvt Ltd",
+      "country": "Portugal",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "168.187.162.229",
+      "port": 389,
+      "org": "Kuwait Electronic and Messaging Services Company",
+      "country": "Kuwait",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=ippbx,dc=com\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.4.1.4203.1.10.1\n  ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "85.215.189.91",
+      "port": 389,
+      "org": "IONOS SE",
+      "country": "Germany",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "62.171.167.67",
+      "port": 389,
+      "org": "Contabo GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "vmi616310.contaboserver.net"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "49.0.66.196",
+      "port": 389,
+      "org": "AIS Fibre",
+      "country": "Thailand",
+      "hostnames": [
+        "49-0-66-0.24.fixed-public.tls1b-bcr.myaisfibre.com"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=server,dc=uficon,dc=net\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.4.1.420",
+      "ssl_cn": null
+    },
+    {
+      "ip": "36.110.106.147",
+      "port": 389,
+      "org": "CHINANET Beijing Province Network",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts: o=cicv\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1.4203.1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "192.172.226.83",
+      "port": 389,
+      "org": "San Diego Supercomputer Center",
+      "country": "United States",
+      "hostnames": [
+        "river.caida.org"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=nodomain\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1.4",
+      "ssl_cn": null
+    },
+    {
+      "ip": "143.89.2.106",
+      "port": 389,
+      "org": "Hong Kong University of Science and Technology",
+      "country": "Hong Kong",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  NamingContexts:\n    dc=ust,dc=hk\n    o=ust.hk\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.2.840.113556.1.4.473\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "109.95.154.91",
+      "port": 389,
+      "org": "Al. Jerozolimskie 98",
+      "country": "Poland",
+      "hostnames": [
+        "v91.c5.dhosting.pl"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=server,dc=nas\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.826.0.1.334810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n  ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "57.128.232.69",
+      "port": 389,
+      "org": "OVH Sp. z o. o.",
+      "country": "Poland",
+      "hostnames": [
+        "ns3222040.ip-57-128-232.eu"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "2620:104:e001:1001::1:e2",
+      "port": 389,
+      "org": "University of Vermont",
+      "country": "United States",
+      "hostnames": [
+        "ldapr5.uvm.edu"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=uvm,dc=edu\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.6.1.4.1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "2001:6b0:17:f080::117",
+      "port": 389,
+      "org": "Linkopings universitet IPv6",
+      "country": "Sweden",
+      "hostnames": [
+        "ipa-r10.ctrl-c.liu.se"
+      ],
+      "banner_snippet": "LDAP:\n  DefaultNamingContext: dc=ctrl-c,dc=liu,dc=se\n  NamingContexts:\n    cn=changelog\n    dc=ctrl-c,dc=liu,dc=se\n  SubschemaSubentry: cn=schema\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2",
+      "ssl_cn": null
+    },
+    {
+      "ip": "2001:41d0:701:1100::1853",
+      "port": 389,
+      "org": "OVH GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "idm-a86d.de.sigaint.au"
+      ],
+      "banner_snippet": "LDAP:\n  DefaultNamingContext: dc=sigaint,dc=au\n  NamingContexts:\n    cn=changelog\n    dc=sigaint,dc=au\n    o=ipaca\n  SubschemaSubentry: cn=schema\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2",
+      "ssl_cn": null
+    },
+    {
+      "ip": "2001:6b0:1:1e90::1:16",
+      "port": 389,
+      "org": "Royal Institute of Technology",
+      "country": "Sweden",
+      "hostnames": [
+        "nipals.mech.kth.se"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=mech,dc=kth,dc=se\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.319\n    1.3.6.1.1.12\n    1.3.6.1.1.13.1\n    1.3.6.1.1.13.2\n    1.3.6.1.1.22\n    1.3.",
+      "ssl_cn": null
+    },
+    {
+      "ip": "2001:62a:4:1:131:130:1:160",
+      "port": 389,
+      "org": "IPv6 Network for Vienna University Campus IT Services",
+      "country": "Austria",
+      "hostnames": [
+        "ldap-public.univie.ac.at"
+      ],
+      "banner_snippet": "LDAP:\n  NamingContexts: dc=univie,dc=ac,dc=at\n  SupportedControl:\n    1.2.826.0.1.3344810.2.3\n    1.2.840.113556.1.4.1339\n    1.2.840.113556.1.4.1340\n    1.2.840.113556.1.4.1413\n    1.2.840.113556.1.4",
+      "ssl_cn": null
+    },
+    {
+      "ip": "2001:41d0:701:1100::7f58",
+      "port": 389,
+      "org": "OVH GmbH",
+      "country": "Germany",
+      "hostnames": [
+        "idm-8b64.de.sigaint.au"
+      ],
+      "banner_snippet": "LDAP:\n  DefaultNamingContext: dc=sigaint,dc=au\n  NamingContexts:\n    cn=changelog\n    dc=sigaint,dc=au\n    o=ipaca\n  SubschemaSubentry: cn=schema\n  SupportedControl:\n    1.2.840.113556.1.4.319\n    1.2",
+      "ssl_cn": null
+    }
+  ]
+}

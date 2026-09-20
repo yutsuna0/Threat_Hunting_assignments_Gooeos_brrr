@@ -1,0 +1,18 @@
+{
+  "sha256": "903039ad3201c5a0b21e621f58438581d81574b9872d79bb30526a0dd9f40cd5",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:11:11.037041+00:00",
+  "detections": "14/71",
+  "names": [
+    "SharpSCOM.exe",
+    "8hdbp.exe"
+  ],
+  "tags": [
+    "detect-debug-environment",
+    "long-sleeps",
+    "assembly",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpSCOM.exe"
+}

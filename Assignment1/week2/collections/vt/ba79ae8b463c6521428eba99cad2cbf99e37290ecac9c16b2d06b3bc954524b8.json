@@ -1,0 +1,17 @@
+{
+  "sha256": "ba79ae8b463c6521428eba99cad2cbf99e37290ecac9c16b2d06b3bc954524b8",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:14:45.435150+00:00",
+  "detections": "34/72",
+  "names": [
+    "Whisker.exe",
+    "7p266e2m.exe"
+  ],
+  "tags": [
+    "assembly",
+    "peexe",
+    "detect-debug-environment"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "Whisker.exe"
+}

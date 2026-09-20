@@ -1,0 +1,15 @@
+{
+  "sha256": "bcb3d5a0e793b98c3e5fb4a84981bd868c12c0d41971c8bb6ce16024206a1386",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:11:27.519731+00:00",
+  "detections": "37/67",
+  "names": [
+    "SharpShares.exe"
+  ],
+  "tags": [
+    "assembly",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpShares.exe"
+}

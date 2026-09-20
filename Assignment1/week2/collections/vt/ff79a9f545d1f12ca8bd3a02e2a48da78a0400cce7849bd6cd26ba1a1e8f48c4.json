@@ -1,0 +1,22 @@
+{
+  "sha256": "ff79a9f545d1f12ca8bd3a02e2a48da78a0400cce7849bd6cd26ba1a1e8f48c4",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:05:24.913164+00:00",
+  "detections": "37/61",
+  "names": [
+    "_RunasCs.exe",
+    "6vf8e.exe",
+    "o4npv.exe",
+    "crio4wfj4.exe",
+    "net_4.7_Any_RunasCs.exe",
+    "pjp1n.exe"
+  ],
+  "tags": [
+    "long-sleeps",
+    "peexe",
+    "assembly",
+    "detect-debug-environment"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "_RunasCs.exe"
+}

@@ -1,0 +1,19 @@
+{
+  "sha256": "aaeb69f93cfbbcb481b50157531d1f8a38fb13723262d49fe3a945361ba5a8b1",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:05:08.521139+00:00",
+  "detections": "56/69",
+  "names": [
+    "Rubeus.exe",
+    "2026-04-09_a2ad7a76e1e5c17ded28f84e70d10c04_elex_glassworm",
+    "cqx6u66.exe"
+  ],
+  "tags": [
+    "long-sleeps",
+    "assembly",
+    "detect-debug-environment",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "Rubeus.exe"
+}

@@ -1,0 +1,18 @@
+{
+  "sha256": "21dfe3211f5c82600a9a39d641bad85bcf30ddd6b04295947a520691bb32331a",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:08:58.706330+00:00",
+  "detections": "37/71",
+  "names": [
+    "SharpEDRChecker.exe"
+  ],
+  "tags": [
+    "assembly",
+    "peexe",
+    "calls-wmi",
+    "idle",
+    "detect-debug-environment"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpEDRChecker.exe"
+}

@@ -1,0 +1,16 @@
+{
+  "sha256": "3951c1b03367cc1dc4de8290ec9507dad9f239a53b815f09691dea5a78c00901",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:05:57.777027+00:00",
+  "detections": "56/68",
+  "names": [
+    "SafetyKatz.exe"
+  ],
+  "tags": [
+    "peexe",
+    "spreader",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SafetyKatz.exe"
+}

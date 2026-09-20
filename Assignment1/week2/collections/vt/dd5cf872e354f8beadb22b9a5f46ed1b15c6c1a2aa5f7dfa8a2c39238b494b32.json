@@ -1,0 +1,17 @@
+{
+  "sha256": "dd5cf872e354f8beadb22b9a5f46ed1b15c6c1a2aa5f7dfa8a2c39238b494b32",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:09:15.726768+00:00",
+  "detections": "37/71",
+  "names": [
+    "SharpGPOAbuse.exe",
+    "inhqjki7j.exe"
+  ],
+  "tags": [
+    "peexe",
+    "assembly",
+    "spreader"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpGPOAbuse.exe"
+}

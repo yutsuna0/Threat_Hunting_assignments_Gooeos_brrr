@@ -1,0 +1,19 @@
+{
+  "sha256": "a2b402f23bed2afebdda5ca21f7bc705a021ad86a35676cd3b55c7aa56406e0f",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:06:30.961863+00:00",
+  "detections": "29/70",
+  "names": [
+    "SearchOutlook.exe",
+    "45404CEE97C601141DDEEDEE7441F4EA.exe"
+  ],
+  "tags": [
+    "peexe",
+    "assembly",
+    "runtime-modules",
+    "detect-debug-environment",
+    "direct-cpu-clock-access"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SearchOutlook.exe"
+}

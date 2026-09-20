@@ -1,0 +1,980 @@
+{
+  "query_id": "global_catalog",
+  "query": "port:3268",
+  "timestamp_utc": "2026-09-20T05:28:49.278140+00:00",
+  "total_shodan_index": 540317,
+  "results": [
+    {
+      "ip": "156.93.225.139",
+      "port": 3268,
+      "org": "Wal-Mart Stores, Inc.",
+      "country": "United States",
+      "hostnames": [
+        "walmart.com"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.112.168",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 718\r\nX-Iinfo: 51-31997113-0 0NNN RT(1789882098477 32) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "47.100.130.127",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920052743.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=titan-a,DC=corp,DC=co\n  DsServiceName: CN=NTDS Settings,CN=AD1,CN=Servers,CN=Default-First-Site-N",
+      "ssl_cn": null
+    },
+    {
+      "ip": "162.216.250.221",
+      "port": 3268,
+      "org": "Egnyte Inc.",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "192.230.67.126",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "192.230.67.126.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 721\r\nX-Iinfo: 50-287044695-0 0NNN RT(1789882046452 65) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "75.125.251.99",
+      "port": 3268,
+      "org": "IBM Cloud",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "51.158.70.157",
+      "port": 3268,
+      "org": "Scaleway",
+      "country": "France",
+      "hostnames": [
+        "157-70-158-51.rev.scw.cloud"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "51.15.142.90",
+      "port": 3268,
+      "org": "Scaleway - Paris, France",
+      "country": "France",
+      "hostnames": [
+        "90-142-15-51.instances.scw.cloud"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "107.154.112.38",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "107.154.112.38.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 718\r\nX-Iinfo: 51-350308886-0 0NNN RT(1789882022863 1) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "39.106.118.104",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 503 Service Unavailable\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nX-Iinfo: 12-14878276-0 0NNN RT(1705363841143 0) q(0 -1 -1 -1) r(0 -1)",
+      "ssl_cn": null
+    },
+    {
+      "ip": "162.216.250.78",
+      "port": 3268,
+      "org": "Egnyte Inc.",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "101.132.245.204",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "\\\\xab\\xca\\xa5]\\\\x00\\\\x00\\\\x00\\\\x18\\\\xc0\\\\x00\\\\x00\\\\x01\\\\xff\\\\xff\\\\xff\\\\xff\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00",
+      "ssl_cn": null
+    },
+    {
+      "ip": "46.38.231.84",
+      "port": 3268,
+      "org": "netcup GmbH",
+      "country": "Germany",
+      "hostnames": [],
+      "banner_snippet": "\\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.107.122",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 718\r\nX-Iinfo: 14-39165325-0 0NNN RT(1789881952531 142) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "47.113.155.252",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nContent-Type: text/html\r\nConnection: close\r\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.89.201",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 715\r\nX-Iinfo: 14-56073765-0 0NNN RT(1789881918750 0) q(-1 -1 -1 -1) r(0 -1) b1\r",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.11.144",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 718\r\nX-Iinfo: 50-44974328-0 0NNN RT(1789881915029 6) q(-1 -1 -1 -1) r(0 -1) b1\r",
+      "ssl_cn": null
+    },
+    {
+      "ip": "155.102.145.102",
+      "port": 3268,
+      "org": "Alibaba Cloud LLC",
+      "country": "Hong Kong",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nconnection: close\r\ncontent-length: 0\r\ndate: Sun, 20 Sep 2026 05:25:10 GMT\r\n\r\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "47.108.43.73",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 403 Forbidden\r\nServer: nginx\r\nContent-Type: text/html\r\nConnection: close\r\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "199.83.134.95",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "199.83.134.95.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 718\r\nX-Iinfo: 53-16667406-0 0NNN RT(1789881903869 86) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "46.248.188.197",
+      "port": 3268,
+      "org": "IQ PL Sp. z o.o.",
+      "country": "Poland",
+      "hostnames": [
+        "46-248-188-197.rev.iq.pl"
+      ],
+      "banner_snippet": "\\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "95.86.96.195",
+      "port": 3268,
+      "org": "Internet Rimon",
+      "country": "Israel",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "95.86.68.147",
+      "port": 3268,
+      "org": "Internet Rimon",
+      "country": "Israel",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "51.158.179.109",
+      "port": 3268,
+      "org": "Scaleway - Amsterdam, Netherlands",
+      "country": "Netherlands",
+      "hostnames": [
+        "109-179-158-51.instances.scw.cloud"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "47.123.228.157",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 404 Not Found\r\nServer: Jetty/9.4.31.v20200723\r\nContent-Type: text/plain; charset=utf-8\r\nConnection: close",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.223.136.253",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 722\r\nX-Iinfo: 48-305127418-0 0NNN RT(1789881878869 29) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "95.86.114.68",
+      "port": 3268,
+      "org": "Internet Rimon",
+      "country": "Israel",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.167.187",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 711\r\nX-Iinfo: 46-1100502-0 0NNN RT(1789881861805 0) q(-1 -1 -1 -1) r(0 -1) b1\r\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "213.188.205.37",
+      "port": 3268,
+      "org": "Fly.io, Inc",
+      "country": "United States",
+      "hostnames": [
+        "ip-213-188-205-37.iad.customer.flyio.net"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.223.98.170",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 722\r\nX-Iinfo: 46-238071998-0 0NNN RT(1789881854697 83) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.11.205",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 722\r\nX-Iinfo: 47-179074219-0 0NNN RT(1789881840376 27) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "23.227.55.58",
+      "port": 3268,
+      "org": "Shopify, Inc.",
+      "country": "Canada",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.130.113",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 721\r\nX-Iinfo: 53-350831867-0 0NNN RT(1789881837054 116) q(-1 -1 -1 -1) r(0 -1) ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "130.237.55.191",
+      "port": 3268,
+      "org": "Royal Institute of Technology",
+      "country": "Sweden",
+      "hostnames": [
+        "dc01.utv.ug.kth.se"
+      ],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920052347.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=utv,DC=ug,DC=kth,DC=se\n  DsServiceName: CN=NTDS Settings,CN=DC01,CN=Servers,CN=Default-First-Site",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.223.220.187",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Switzerland",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 712\r\nX-Iinfo: 49-1285631-0 0NNN RT(1789881824431 3) q(-1 -1 -1 -1) r(0 -1) b1\r\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.11.192",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 721\r\nX-Iinfo: 43-216094640-0 0NNN RT(1789881819751 1) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "68.166.205.253",
+      "port": 3268,
+      "org": "GTT",
+      "country": "United States",
+      "hostnames": [
+        "h-68-166-205-253.lsan.ca.globalcapacity.com"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nServer: squid/7.6-VCS\r\nMime-Version: 1.0\r\nDate: Sun, 20 Sep 2026 05:23:36 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 3033\r\nX-Squid-Error: ERR_PROTOCOL_UNKNOW",
+      "ssl_cn": null
+    },
+    {
+      "ip": "163.172.129.85",
+      "port": 3268,
+      "org": "Scaleway Dedibox - Paris, France",
+      "country": "France",
+      "hostnames": [
+        "85-129-172-163.instances.scw.cloud"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "137.66.8.9",
+      "port": 3268,
+      "org": "Fly.io, Inc.",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ip-137-66-8-9.customer.flyio.net"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "8.149.225.18",
+      "port": 3268,
+      "org": "Aliyun Computing Co.LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "ICAP/1.0 501 Other\r\nServer: Traffic Spicer 7788179225\r\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "47.94.87.210",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 302 Found\r\nContent-Type: text/html; charset=utf-8\r\nLocation: http://proxy.ces.org.tw:3000/login?url=http%3A%2F%2Floginbyurl.wanfangdata.com.cn%2F\r\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "95.86.112.80",
+      "port": 3268,
+      "org": "Internet Rimon",
+      "country": "Israel",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "75.125.253.172",
+      "port": 3268,
+      "org": "IBM Cloud",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "216.114.76.181",
+      "port": 3268,
+      "org": "TGS Management Company, LLC",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "120.27.176.242",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 404 Not Found\r\nServer: Jetty/9.4.31.v20200723\r\nContent-Type: text/plain; charset=utf-8\r\nConnection: close",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.223.215.249",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 719\r\nX-Iinfo: 51-347736912-0 0NNN RT(1789881783936 53) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "107.154.147.174",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "107.154.147.174.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 716\r\nX-Iinfo: 58-22338653-0 0NNN RT(1789881777954 274) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.223.118.130",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 718\r\nX-Iinfo: 54-404464425-0 0NNN RT(1789881768540 1) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "198.13.39.215",
+      "port": 3268,
+      "org": "Vultr Holdings, LLC",
+      "country": "Japan",
+      "hostnames": [
+        "198.13.39.215.vultrusercontent.com"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedLDAPPolicies:\n    InitRecvTimeout\n    MaxBatchReturnMessages\n    MaxConnIdleTime\n    MaxConnections\n    MaxDatagramRecv\n    MaxDirSyncDuration\n    MaxNotificationPerConn\n    MaxPageSi",
+      "ssl_cn": null
+    },
+    {
+      "ip": "62.204.37.130",
+      "port": 3268,
+      "org": "T.K Bytech LTD",
+      "country": "Netherlands",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.0 407 Proxy Authentication Required\r\nproxy-authenticate: Basic\r\nconnection: close\r\n\r\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.11.121",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 718\r\nX-Iinfo: 53-49521273-0 0NNN RT(1789881735745 4) q(-1 -1 -1 -1) r(0 -1) b1\r",
+      "ssl_cn": null
+    },
+    {
+      "ip": "47.110.183.168",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "\\\\xab\\xca\\xa5]\\\\x00\\\\x00\\\\x00\\\\x18\\\\xc0\\\\x00\\\\x00\\\\x01\\\\xff\\\\xff\\\\xff\\\\xff\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00",
+      "ssl_cn": null
+    },
+    {
+      "ip": "137.66.8.98",
+      "port": 3268,
+      "org": "Fly.io, Inc.",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ip-137-66-8-98.customer.flyio.net"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "107.154.150.147",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "107.154.150.147.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 717\r\nX-Iinfo: 44-195588383-0 0NNN RT(1789881713007 0) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "51.158.102.71",
+      "port": 3268,
+      "org": "Scaleway",
+      "country": "France",
+      "hostnames": [
+        "71-102-158-51.rev.scw.cloud"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "59.110.143.227",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 404 Not Found\r\nServer: Jetty/9.4.31.v20200723\r\nContent-Type: text/plain; charset=utf-8\r\nConnection: close",
+      "ssl_cn": null
+    },
+    {
+      "ip": "23.227.44.87",
+      "port": 3268,
+      "org": "Shopify, Inc.",
+      "country": "Canada",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "223.204.71.79",
+      "port": 3268,
+      "org": "Triple T Broadband Public Company Limited",
+      "country": "Thailand",
+      "hostnames": [
+        "mx-ll-223.204.71-79.dynamic.3bb.co.th"
+      ],
+      "banner_snippet": "HTTP/1.0 400 Bad Request\r\nContent-Type: text/plain; charset=utf-8\r\nContent-Length: 82\r\nDate: Sun, 20 Sep 2026 05:21:42 GMT\r\nServer: Python/3.14 aiohttp/3.14.1\r\n\r\nInvalid method encountered:\n\n  b'0\\x82",
+      "ssl_cn": null
+    },
+    {
+      "ip": "116.62.210.217",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 301 Moved Permanently\r\nLocation: /web/index.html\r\nServer: HTTPD\r\nConnection: close\r\nContent-Type: text/html",
+      "ssl_cn": null
+    },
+    {
+      "ip": "192.230.93.27",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "192.230.93.27.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 722\r\nX-Iinfo: 49-274534735-0 0NNN RT(1789881669565 117) q(-1 -1 -1 -1) r(0 -1) ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "37.60.42.179",
+      "port": 3268,
+      "org": "Internet Rimon",
+      "country": "Israel",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.64.66.209",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "United Arab Emirates",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 720\r\nX-Iinfo: 45-102416851-0 0NNN RT(1789881669186 27) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "216.114.76.233",
+      "port": 3268,
+      "org": "TGS Management Company, LLC",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "137.66.8.203",
+      "port": 3268,
+      "org": "Fly.io, Inc.",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ip-137-66-8-203.customer.flyio.net"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "146.56.203.234",
+      "port": 3268,
+      "org": "Tencent Cloud Computing (Beijing) Co., Ltd",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "LDAP:\n  CurrentTime: 20260920052034.0Z\n  SubschemaSubentry: CN=Aggregate,CN=Schema,CN=Configuration,DC=ack123,DC=com\n  DsServiceName: CN=NTDS Settings,CN=16SERVER-DC1,CN=Servers,CN=Default-First-Site-",
+      "ssl_cn": null
+    },
+    {
+      "ip": "131.164.253.179",
+      "port": 3268,
+      "org": "Infrateam Aps",
+      "country": "Denmark",
+      "hostnames": [],
+      "banner_snippet": "\\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "137.66.8.99",
+      "port": 3268,
+      "org": "Fly.io, Inc.",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ip-137-66-8-99.customer.flyio.net"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.223.245.126",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 716\r\nX-Iinfo: 47-147724378-0 0NNN RT(1789881612579 4) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "54.36.174.202",
+      "port": 3268,
+      "org": "OVH Sp. z o. o.",
+      "country": "Poland",
+      "hostnames": [
+        "ns3101227.ip-54-36-174.eu"
+      ],
+      "banner_snippet": "\\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.11.157",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 722\r\nX-Iinfo: 52-272682778-0 0NNN RT(1789881609577 36) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "107.154.179.9",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "107.154.179.9.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 712\r\nX-Iinfo: 50-4049625-0 0NNN RT(1789881608662 0) q(-1 -1 -1 -1) r(0 -1) b1\r\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "104.254.204.43",
+      "port": 3268,
+      "org": "Smule Inc.",
+      "country": "United States",
+      "hostnames": [
+        "ks1.sf.smle.co"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "137.66.8.161",
+      "port": 3268,
+      "org": "Fly.io, Inc.",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ip-137-66-8-161.customer.flyio.net"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "101.132.244.15",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 503 Service Unavailable\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nX-Iinfo: 12-14878276-0 0NNN RT(1705363841143 0) q(0 -1 -1 -1) r(0 -1)",
+      "ssl_cn": null
+    },
+    {
+      "ip": "47.121.240.201",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 503 Service Unavailable\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nX-Iinfo: 12-14878276-0 0NNN RT(1705363841143 0) q(0 -1 -1 -1) r(0 -1)",
+      "ssl_cn": null
+    },
+    {
+      "ip": "181.78.76.210",
+      "port": 3268,
+      "org": "UFINET COLOMBIA, S. A.",
+      "country": "Colombia",
+      "hostnames": [
+        "210.76.78.181.ufinet.com.co"
+      ],
+      "banner_snippet": "\\n",
+      "ssl_cn": null
+    },
+    {
+      "ip": "107.154.171.42",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "107.154.171.42.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 715\r\nX-Iinfo: 59-23481260-0 0NNN RT(1789881575963 1) q(-1 -1 -1 -1) r(0 -1) b1\r",
+      "ssl_cn": null
+    },
+    {
+      "ip": "91.134.8.112",
+      "port": 3268,
+      "org": "OVH SAS",
+      "country": "France",
+      "hostnames": [
+        "ns3242536.ip-91-134-8.eu"
+      ],
+      "banner_snippet": "LDAP:\n  SupportedExtension:\n    1.2.840.113556.1.4.1781\n    1.2.840.113556.1.4.2212\n    1.3.6.1.4.1.1466.101.119.1\n    1.3.6.1.4.1.1466.20037\n    1.3.6.1.4.1.4203.1.11.3\n  SupportedSASLMechanisms:\n   ",
+      "ssl_cn": null
+    },
+    {
+      "ip": "47.116.74.70",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "\\\\xab\\xca\\xa5]\\\\x00\\\\x00\\\\x00\\\\x18\\\\xc0\\\\x00\\\\x00\\\\x01\\\\xff\\\\xff\\\\xff\\\\xff\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00\\\\x00",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.77.138",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 719\r\nX-Iinfo: 54-25364128-0 0NNN RT(1789881549839 29) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "162.216.250.100",
+      "port": 3268,
+      "org": "Egnyte Inc.",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "162.216.250.219",
+      "port": 3268,
+      "org": "Egnyte Inc.",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "107.154.207.103",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "107.154.207.103.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 713\r\nX-Iinfo: 53-6542853-0 0NNN RT(1789881546285 41) q(-1 -1 -1 -1) r(0 -1) b1\r",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.11.152",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 722\r\nX-Iinfo: 50-317991349-0 0NNN RT(1789881545139 76) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "216.114.76.177",
+      "port": 3268,
+      "org": "TGS Management Company, LLC",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "212.76.111.188",
+      "port": 3268,
+      "org": "Internet Rimon",
+      "country": "Israel",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "172.86.149.182",
+      "port": 3268,
+      "org": "Fly.io, Inc.",
+      "country": "Germany",
+      "hostnames": [
+        "ip-172-86-149-182.fra.customer.flyio.net"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "107.154.105.124",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "107.154.105.124.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 721\r\nX-Iinfo: 48-307626995-0 0NNN RT(1789881521767 4710) q(-1 -1 -1 -1) r(0 -1)",
+      "ssl_cn": null
+    },
+    {
+      "ip": "137.66.8.131",
+      "port": 3268,
+      "org": "Fly.io, Inc.",
+      "country": "United Kingdom",
+      "hostnames": [
+        "ip-137-66-8-131.customer.flyio.net"
+      ],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.223.74.5",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 720\r\nX-Iinfo: 54-381193485-0 0NNN RT(1789881517920 1) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.60.204.77",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 715\r\nX-Iinfo: 51-31826132-0 0NNN RT(1789881516785 1) q(-1 -1 -1 -1) r(0 -1) b1\r",
+      "ssl_cn": null
+    },
+    {
+      "ip": "43.175.227.251",
+      "port": 3268,
+      "org": "ACEVILLE PTE.LTD.",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.223.41.219",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 719\r\nX-Iinfo: 48-307625439-0 0NNN RT(1789881516015 14) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "45.223.45.160",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 719\r\nX-Iinfo: 40-186970964-0 0NNN RT(1789881512060 18) q(-1 -1 -1 -1) r(0 -1) b",
+      "ssl_cn": null
+    },
+    {
+      "ip": "162.216.250.82",
+      "port": 3268,
+      "org": "Egnyte Inc.",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    },
+    {
+      "ip": "107.154.158.226",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "107.154.158.226.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 720\r\nX-Iinfo: 54-271468618-0 0NNN RT(1789881508937 1) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "107.154.110.201",
+      "port": 3268,
+      "org": "Incapsula Inc",
+      "country": "Singapore",
+      "hostnames": [
+        "107.154.110.201.ip.incapdns.net"
+      ],
+      "banner_snippet": "HTTP/1.1 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: no-cache, no-store\r\nConnection: close\r\nContent-Length: 716\r\nX-Iinfo: 50-20124198-0 0NNN RT(1789881508757 36) q(-1 -1 -1 -1) r(0 -1) b1",
+      "ssl_cn": null
+    },
+    {
+      "ip": "47.103.254.237",
+      "port": 3268,
+      "org": "Aliyun Computing Co., LTD",
+      "country": "China",
+      "hostnames": [],
+      "banner_snippet": "HTTP/1.1 301 Moved Permanently\r\nLocation: /web/index.html\r\nServer: HTTPD\r\nConnection: close\r\nContent-Type: text/html",
+      "ssl_cn": null
+    },
+    {
+      "ip": "144.26.240.188",
+      "port": 3268,
+      "org": "West Chester University of Pennsylvania",
+      "country": "United States",
+      "hostnames": [
+        "evil-b258-apt3-ap-b.wcupa.net"
+      ],
+      "banner_snippet": "HTTP/1.1 200 OK\r\nContent-Type: text/html\r\nContent-Length: 482\r\nConnection: keep-alive\r\nLast-Modified: Thu, 17 Sep 2026 06:45:44 GMT\r\nx-amz-server-side-encryption: AES256\r\nx-amz-version-id: QnPkxwYqJoN",
+      "ssl_cn": null
+    },
+    {
+      "ip": "216.114.76.193",
+      "port": 3268,
+      "org": "TGS Management Company, LLC",
+      "country": "United States",
+      "hostnames": [],
+      "banner_snippet": "",
+      "ssl_cn": null
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "query_id": "kerberos_88",
+  "query": "port:88 product:\"Microsoft Windows\" -google -microsoft",
+  "timestamp_utc": "2026-09-20T05:28:50.761720+00:00",
+  "total_shodan_index": 0,
+  "results": []
+}

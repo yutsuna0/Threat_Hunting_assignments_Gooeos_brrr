@@ -1,0 +1,20 @@
+{
+  "sha256": "a5e02e81d3e051516eae6548ec44a24be6363099dcf531d2c2d062cd8afb39c2",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:05:41.414604+00:00",
+  "detections": "45/71",
+  "names": [
+    "RunasCs.exe",
+    "f5d3zm21.exe",
+    "chlqa4b.exe",
+    "i8fgoc.exe",
+    "net_4.7_Any_RunasCs.exe",
+    "b82dce30f2e9491f89b4dcca7d320cd1"
+  ],
+  "tags": [
+    "peexe",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "RunasCs.exe"
+}

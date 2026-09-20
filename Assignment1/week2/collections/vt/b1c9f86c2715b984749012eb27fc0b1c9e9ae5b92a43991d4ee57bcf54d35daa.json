@@ -1,0 +1,15 @@
+{
+  "sha256": "b1c9f86c2715b984749012eb27fc0b1c9e9ae5b92a43991d4ee57bcf54d35daa",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:07:20.116468+00:00",
+  "detections": "50/70",
+  "names": [
+    "SharpChisel.exe"
+  ],
+  "tags": [
+    "peexe",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpChisel.exe"
+}

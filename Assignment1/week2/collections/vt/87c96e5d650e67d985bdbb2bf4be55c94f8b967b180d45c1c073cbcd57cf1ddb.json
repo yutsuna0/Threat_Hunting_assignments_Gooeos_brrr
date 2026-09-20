@@ -1,0 +1,19 @@
+{
+  "sha256": "87c96e5d650e67d985bdbb2bf4be55c94f8b967b180d45c1c073cbcd57cf1ddb",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:12:00.476029+00:00",
+  "detections": "41/71",
+  "names": [
+    "SharpSpray.exe",
+    "01E28854E6F9B9FA03E7422CE24893CB.exe"
+  ],
+  "tags": [
+    "direct-cpu-clock-access",
+    "peexe",
+    "runtime-modules",
+    "assembly",
+    "detect-debug-environment"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpSpray.exe"
+}

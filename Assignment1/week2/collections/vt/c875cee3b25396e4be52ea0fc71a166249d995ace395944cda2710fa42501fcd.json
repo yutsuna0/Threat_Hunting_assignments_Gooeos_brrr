@@ -1,0 +1,18 @@
+{
+  "sha256": "c875cee3b25396e4be52ea0fc71a166249d995ace395944cda2710fa42501fcd",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:13:23.543306+00:00",
+  "detections": "39/61",
+  "names": [
+    "SharpZeroLogon.exe",
+    "o6l1r7wng.exe"
+  ],
+  "tags": [
+    "cve-2020-1472",
+    "peexe",
+    "exploit",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpZeroLogon.exe"
+}

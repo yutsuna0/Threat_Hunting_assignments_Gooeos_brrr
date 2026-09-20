@@ -1,0 +1,17 @@
+{
+  "sha256": "4e8fe522fb8264db6a4102c5a74c3ca1fd5d1ab7dd8b2e6806123ca6f5cbf3f4",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:09:32.082717+00:00",
+  "detections": "41/69",
+  "names": [
+    "SharpHose.exe"
+  ],
+  "tags": [
+    "assembly",
+    "peexe",
+    "detect-debug-environment",
+    "long-sleeps"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpHose.exe"
+}

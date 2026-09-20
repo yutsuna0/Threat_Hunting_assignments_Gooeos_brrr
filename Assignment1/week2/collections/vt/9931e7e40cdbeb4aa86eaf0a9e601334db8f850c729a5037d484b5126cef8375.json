@@ -1,0 +1,17 @@
+{
+  "sha256": "9931e7e40cdbeb4aa86eaf0a9e601334db8f850c729a5037d484b5126cef8375",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:08:25.859533+00:00",
+  "detections": "43/71",
+  "names": [
+    "SharpDPAPI.exe"
+  ],
+  "tags": [
+    "peexe",
+    "assembly",
+    "detect-debug-environment",
+    "long-sleeps"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpDPAPI.exe"
+}

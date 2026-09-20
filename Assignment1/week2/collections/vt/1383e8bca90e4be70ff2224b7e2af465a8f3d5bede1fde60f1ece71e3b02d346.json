@@ -1,0 +1,16 @@
+{
+  "sha256": "1383e8bca90e4be70ff2224b7e2af465a8f3d5bede1fde60f1ece71e3b02d346",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:03:46.611666+00:00",
+  "detections": "49/69",
+  "names": [
+    "Certify.exe",
+    "oeotbpy2.exe"
+  ],
+  "tags": [
+    "peexe",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "Certify.exe"
+}

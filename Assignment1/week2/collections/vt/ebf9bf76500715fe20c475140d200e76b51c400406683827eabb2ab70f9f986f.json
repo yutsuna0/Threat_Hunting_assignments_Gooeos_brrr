@@ -1,0 +1,16 @@
+{
+  "sha256": "ebf9bf76500715fe20c475140d200e76b51c400406683827eabb2ab70f9f986f",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:04:19.386793+00:00",
+  "detections": "53/70",
+  "names": [
+    "Inveigh.exe"
+  ],
+  "tags": [
+    "assembly",
+    "peexe",
+    "spreader"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "Inveigh.exe"
+}

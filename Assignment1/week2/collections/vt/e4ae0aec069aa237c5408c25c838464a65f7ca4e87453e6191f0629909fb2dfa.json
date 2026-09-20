@@ -1,0 +1,15 @@
+{
+  "sha256": "e4ae0aec069aa237c5408c25c838464a65f7ca4e87453e6191f0629909fb2dfa",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:08:42.293049+00:00",
+  "detections": "58/70",
+  "names": [
+    "SharpDump.exe"
+  ],
+  "tags": [
+    "peexe",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpDump.exe"
+}

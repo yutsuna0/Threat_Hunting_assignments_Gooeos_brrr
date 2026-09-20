@@ -1,0 +1,19 @@
+{
+  "sha256": "ee680b8bc12bb26c91fcf4826645082107f9ab17b5d6c3c0c2b0ec5cf12c5fa3",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:11:44.006342+00:00",
+  "detections": "24/71",
+  "names": [
+    "Sharp-SMBExec.exe",
+    "s7abgm.exe",
+    "f8gow.exe"
+  ],
+  "tags": [
+    "peexe",
+    "assembly",
+    "detect-debug-environment",
+    "long-sleeps"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "Sharp-SMBExec.exe"
+}

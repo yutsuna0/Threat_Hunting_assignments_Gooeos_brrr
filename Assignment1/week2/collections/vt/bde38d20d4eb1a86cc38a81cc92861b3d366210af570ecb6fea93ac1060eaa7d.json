@@ -1,0 +1,15 @@
+{
+  "sha256": "bde38d20d4eb1a86cc38a81cc92861b3d366210af570ecb6fea93ac1060eaa7d",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:13:39.949372+00:00",
+  "detections": "50/73",
+  "names": [
+    "Snaffler.exe"
+  ],
+  "tags": [
+    "assembly",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "Snaffler.exe"
+}

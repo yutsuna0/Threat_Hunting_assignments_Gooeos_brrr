@@ -1,0 +1,19 @@
+{
+  "sha256": "45ea038d3721285f2759d8c8f3740cbb9cb9400a0cf76d11d84e089bd99ed1a9",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:14:12.693248+00:00",
+  "detections": "48/70",
+  "names": [
+    "StickyNotesExtract.exe"
+  ],
+  "tags": [
+    "detect-debug-environment",
+    "direct-cpu-clock-access",
+    "runtime-modules",
+    "assembly",
+    "long-sleeps",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "StickyNotesExtract.exe"
+}

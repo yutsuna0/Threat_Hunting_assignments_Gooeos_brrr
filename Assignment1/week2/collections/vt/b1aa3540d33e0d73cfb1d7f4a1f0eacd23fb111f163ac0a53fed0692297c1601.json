@@ -1,0 +1,18 @@
+{
+  "sha256": "b1aa3540d33e0d73cfb1d7f4a1f0eacd23fb111f163ac0a53fed0692297c1601",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:06:47.348847+00:00",
+  "detections": "44/58",
+  "names": [
+    "Seatbelt.exe",
+    "Shaun_PT_Seatbelt.jpg"
+  ],
+  "tags": [
+    "detect-debug-environment",
+    "peexe",
+    "assembly",
+    "idle"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "Seatbelt.exe"
+}

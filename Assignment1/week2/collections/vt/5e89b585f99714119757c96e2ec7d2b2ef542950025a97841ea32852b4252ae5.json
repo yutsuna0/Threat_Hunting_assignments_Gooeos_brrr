@@ -1,0 +1,19 @@
+{
+  "sha256": "5e89b585f99714119757c96e2ec7d2b2ef542950025a97841ea32852b4252ae5",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:10:21.574019+00:00",
+  "detections": "47/69",
+  "names": [
+    "7eefrfl.exe",
+    "SharpMapExec.exe"
+  ],
+  "tags": [
+    "spreader",
+    "detect-debug-environment",
+    "assembly",
+    "obfuscated",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpMapExec.exe"
+}

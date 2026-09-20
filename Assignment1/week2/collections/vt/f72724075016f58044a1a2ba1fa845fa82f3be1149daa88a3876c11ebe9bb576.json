@@ -1,0 +1,17 @@
+{
+  "sha256": "f72724075016f58044a1a2ba1fa845fa82f3be1149daa88a3876c11ebe9bb576",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:09:48.599747+00:00",
+  "detections": "50/71",
+  "names": [
+    "t8un9e37u.exe",
+    "SharpHound.exe",
+    "fee3c279bc649ec89ca4485f5e63a74e"
+  ],
+  "tags": [
+    "peexe",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpHound.exe"
+}

@@ -1,0 +1,16 @@
+{
+  "sha256": "60d99cc226b87a11ad4741602e5451f6525a58a9717fc02bf1205cd97cded0d2",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:10:54.568310+00:00",
+  "detections": "36/71",
+  "names": [
+    "SharpSCCM.exe",
+    "76662669a6d3ad4424100a087ad9a215"
+  ],
+  "tags": [
+    "peexe",
+    "assembly"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpSCCM.exe"
+}

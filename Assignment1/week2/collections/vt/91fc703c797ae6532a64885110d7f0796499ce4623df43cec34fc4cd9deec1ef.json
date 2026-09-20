@@ -1,0 +1,16 @@
+{
+  "sha256": "91fc703c797ae6532a64885110d7f0796499ce4623df43cec34fc4cd9deec1ef",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:12:16.875517+00:00",
+  "detections": "47/71",
+  "names": [
+    "d1a8f3f4d9d2f22764ffff1f3b38e973",
+    "SharpSQLPwn.exe"
+  ],
+  "tags": [
+    "assembly",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpSQLPwn.exe"
+}

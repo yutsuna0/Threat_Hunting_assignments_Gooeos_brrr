@@ -1,0 +1,16 @@
+{
+  "sha256": "7e540bf2ea005987a2eadc1ed30129cda0880ea894ed07f97e30abfcbfbe397a",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:06:14.116608+00:00",
+  "detections": "27/71",
+  "names": [
+    "SauronEye.exe"
+  ],
+  "tags": [
+    "assembly",
+    "peexe",
+    "detect-debug-environment"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SauronEye.exe"
+}

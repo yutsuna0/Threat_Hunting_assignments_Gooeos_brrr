@@ -1,0 +1,20 @@
+{
+  "sha256": "e13fb4de4c665b8ff126030cfcf8088e3180cdbab1f7b09c5c75c3ef140d13e7",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:04:35.774118+00:00",
+  "detections": "39/71",
+  "names": [
+    "KrbRelay.exe"
+  ],
+  "tags": [
+    "cve-2021-36934",
+    "assembly",
+    "peexe",
+    "cve-2021-1675",
+    "exploit",
+    "detect-debug-environment",
+    "long-sleeps"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "KrbRelay.exe"
+}

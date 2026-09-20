@@ -1,0 +1,16 @@
+{
+  "sha256": "2b4fc3369d0844f949e23fc14458713e321fb415f4b293c6e08a3316d7845e3e",
+  "status": "ok",
+  "fetched_utc": "2026-09-20T06:13:06.853394+00:00",
+  "detections": "33/71",
+  "names": [
+    "SharpWMI.exe",
+    "muhjzmbpl.exe"
+  ],
+  "tags": [
+    "assembly",
+    "peexe"
+  ],
+  "type": "Win32 EXE",
+  "sample_name": "SharpWMI.exe"
+}

@@ -109,3 +109,4 @@ During Week 3, the collected threat intelligence data was processed and normaliz
 A total of 69 records were processed, and 41 SHA256 indicators were prepared and imported into MISP.
 
 The resulting dataset and MISP event provide a structured foundation for further threat hunting activities.
+Used GPT-5 for generated text and scripts

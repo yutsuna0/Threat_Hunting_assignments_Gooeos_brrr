@@ -9,8 +9,8 @@ Week 4 – Cyber Kill Chain Mapping
 
 Storm-0501 is a financially motivated threat actor that has evolved from traditional ransomware operations into hybrid cloud attacks, pivoting from compromised on-premises Active Directory environments into Microsoft Entra ID to achieve persistent access and deploy ransomware across both on-prem and cloud infrastructure
 
-![](api/attachments/yfjhuIBEpXLl/image/image.png)
-
+![Storm-0501 attack chain: Tenant 1 - Tenant 2 - Cloud](assets/images/week4_image.png)
+*Source: Microsoft Threat Intelligence, "Storm-0501's evolving techniques lead to cloud-based ransomware" (Aug 2025)*
 ### Cyber Kill Chain
 
 The Cyber Kill Chain is the framework that breaks down a cyberattack into sequential phases to identify threats. The seven phases are: Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command & Control, and Actions on Objectives.

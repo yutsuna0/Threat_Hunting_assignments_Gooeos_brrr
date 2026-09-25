@@ -1,4 +1,3 @@
-# README.md
 An entire assignment was imported from Trillium Notes 0.63.7, metadata can be seen in `week4.zip` file
 
 ### Assets

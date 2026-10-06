@@ -16,7 +16,7 @@ Adversaries may modify Group Policy Objects (GPOs) to subvert the intended discr
 
 Like other objects in AD, GPOs have access controls associated with them. By default all user accounts in the domain have permission to read GPOs. It is possible to delegate GPO access control permissions, e.g. write access, to specific users or groups in the domain.
 
-\[Text from this link](https://attack.mitre.org/techniques/T1484/001/)
+[Text from this link](https://attack.mitre.org/techniques/T1484/001/)
 
 #### T1003.006 – DCSync
 
@@ -24,7 +24,7 @@ Adversaries may attempt to access credentials and other sensitive information by
 
 Members of the Administrators, Domain Admins, and Enterprise Admin groups or computer accounts on the domain controller are able to run DCSync to pull password data from Active Directory, which may include current and historical hashes of potentially useful accounts such as `KRBTGT` and Administrators. The hashes can then in turn be used to create a `Golden Ticket` for use in `Pass The Ticket` or change an account's password
 
-\[Text from this link](https://attack.mitre.org/techniques/T1003/006/)
+[Text from this link](https://attack.mitre.org/techniques/T1003/006/)
 
 ### Attack Scenario
 
@@ -59,15 +59,15 @@ How was data uploaded to splonk
 
 1\. At the dashboard navigate to that cog(settings) and click on `Add Data`
 
-!\[](images/week5\_image.png)
+![](images/week5_image.png)
 
 2\. Clicking on this 
 
-!\[](images/1\_week5\_image.png)
+![](images/1_week5_image.png)
 
 3\. Selecting file
 
-!\[](images/week5\_Screenshot 2026-10-06 21.jpg)
+![](images/week5_Screenshot%202026-10-06%2021.jpg)
 
 2 zip files were uploaded, since all those logs have the source type:
 
@@ -111,7 +111,7 @@ executed query:
 index=\\\* source="t1484.001.zip:./t1484.001\\\_data/\\\*" host="227f9c407156" "5145"
 ```
 
-!\[](images/1\_week5\_Screenshot 2026-10-06 21.jpg)
+![](images/1_week5_Screenshot%202026-10-06%2021.jpg)
 
 #### T1003.006
 
@@ -121,5 +121,5 @@ executed query:
 index=\\\* source="T1003.006.zip:./T1003.006\\\_data/snapattack.log" "4662"
 ```
 
-!\[](images/3\_week5\_image.png)
+![](images/3_week5_image.png)
 

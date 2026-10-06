@@ -1,5 +1,5 @@
 # README
-An entire assignment was imported from Trillium Notes 0.63.7, metadata can be seen in `week5.zip` file
+An entire assignment was imported from Trillium Notes 0.63.7, metadata can be seen in `Assignment3.zip` file
 
 Chosen Techniques
 -----------------

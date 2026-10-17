@@ -2,6 +2,8 @@
 Assignment 4 – Week 6 & 7
 -------------------------
 
+![](README_67-angry-bird.gif)
+
 |     |     |     |
 | --- | --- | --- |
 | Week | Topic | Summary |

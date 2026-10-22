@@ -1,0 +1,10 @@
+index=car_week7 source="sysmon_parsed.csv"
+| where EventID="1" AND like(lower(Image), "%schtasks.exe")
+| eval Action=case(
+    like(lower(CommandLine),"%/create%"),"Scheduled Task Creation",
+    like(lower(CommandLine),"%/run%"),"Scheduled Task Execution",
+    true(),"Other")
+| eval CAR_ID="CAR-2013-08-001"
+| eval ATTACK_ID="T1053.005"
+| eval Tactic="Persistence"
+| table EventTime Computer User Image CommandLine Action CAR_ID ATTACK_ID Tactic

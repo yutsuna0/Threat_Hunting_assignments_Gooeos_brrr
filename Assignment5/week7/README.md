@@ -75,5 +75,5 @@ The parser processed 410 Sysmon events without errors, and the detection identif
 - https://github.com/splunk/attack_data
 
 ## AI Usage Declaration
-ChatGPT assisted with Python code, SPL query development, and documentation. Detection results were verified using the dataset and Splunk.
+ChatGPT assisted . Detection results were verified using the dataset and Splunk.
 

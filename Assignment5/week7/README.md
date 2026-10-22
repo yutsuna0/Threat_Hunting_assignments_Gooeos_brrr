@@ -74,6 +74,6 @@ The parser processed 410 Sysmon events without errors, and the detection identif
 - https://attack.mitre.org/techniques/T1053/005/
 - https://github.com/splunk/attack_data
 
-## AI Usage Declaration
-ChatGPT assisted . Detection results were verified using the dataset and Splunk.
+
+ChatGPT assisted . 
 

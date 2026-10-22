@@ -58,6 +58,27 @@ Both match the selected CAR analytic.
 | Sub-technique | Scheduled Task (T1053.005) |
 | CAR | CAR-2013-08-001 |
 
+### Event Distribution Analysis
+
+The dataset contains 410 Sysmon events across six event types:
+
+| Event ID | Description | Count |
+|---|---|---:|
+| 10 | Process Access | 179 |
+| 23 | File Delete | 161 |
+| 3 | Network Connection | 42 |
+| 1 | Process Creation | 16 |
+| 13 | Registry Value Set | 10 |
+| 11 | File Create | 2 |
+
+The CAR analytic focuses on process creation events (Event ID 1).
+
+Out of 16 process creation events, two schtasks.exe executions were identified.
+
+These events represent 12.5% of process creation events and approximately 0.49% of the complete dataset.
+
+The two matching commands create scheduled tasks named SoundIentifier and Disk Diag. Both require further investigation to determine whether they represent malicious activity.
+
 ## Limitations
 - Legitimate administrators also use schtasks.exe.
 - A match does not automatically confirm malicious activity.

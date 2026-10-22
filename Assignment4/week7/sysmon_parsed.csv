@@ -1,0 +1,411 @@
+EventTime,EventID,Computer,User,Image,CommandLine,ParentImage,ProcessId,ProcessGuid
+2021-03-01T19:38:43.046069000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:44.343578500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:44.061621000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:45.781987200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:45.108842800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:46.124681700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:47.215114000Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:38:47.155510400Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:48.159314500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:49.186727800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:50.626743500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:50.218249800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:50.060068700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\LOCAL SERVICE,C:\Windows\System32\svchost.exe,,,1152,{05ADC7E1-229F-6039-1100-00000000AD01}
+2021-03-01T19:38:51.265365500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:52.905725100Z,13,win-dc-974.attackrange.local,,C:\Windows\system32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:38:52.905459700Z,13,win-dc-974.attackrange.local,,C:\Windows\system32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:38:52.905118000Z,13,win-dc-974.attackrange.local,,C:\Windows\system32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:38:52.904865800Z,13,win-dc-974.attackrange.local,,C:\Windows\system32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:38:52.904603000Z,13,win-dc-974.attackrange.local,,C:\Windows\system32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:38:52.904349300Z,13,win-dc-974.attackrange.local,,C:\Windows\system32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:38:52.904083100Z,13,win-dc-974.attackrange.local,,C:\Windows\system32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:38:52.903661800Z,13,win-dc-974.attackrange.local,,C:\Windows\system32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:38:52.903345800Z,13,win-dc-974.attackrange.local,,C:\Windows\system32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:38:52.903072300Z,13,win-dc-974.attackrange.local,,C:\Windows\system32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:38:52.312070600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:52.235647200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:52.168049900Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:38:53.347031000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:53.250278300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:53.199569300Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:38:54.369111200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:54.262081000Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:38:55.452872200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:55.362903900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,,,6484,{05ADC7E1-FB1F-603C-5979-00000000AD01}
+2021-03-01T19:38:56.468408400Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:56.067760400Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:57.500016800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:57.340199600Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,,,6484,{05ADC7E1-FB1F-603C-5979-00000000AD01}
+2021-03-01T19:38:57.340181000Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:38:58.879023700Z,23,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Program Files\Mozilla Firefox\firefox.exe,,,3144,{05ADC7E1-7946-6039-1610-00000000AD01}
+2021-03-01T19:38:58.530522000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:38:59.780805900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:38:59.780300800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:38:59.780154400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:38:59.777259300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:38:59.777110800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:38:59.776959200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:38:59.776798900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:38:59.562117600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:00.596206300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:00.299166200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:01.797193100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:01.762145500Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:01.762117700Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:01.608994300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:02.793367700Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:02.656807300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:03.687403100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:04.702349200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:05.718243600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:06.749240100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:07.765771100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:07.160056700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:07.158481300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:08.813645700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:08.781324700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:08.043415000Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:09.925937300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.924174600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.924042500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.923944100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.923799500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.923661000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.923334900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.923002900Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-MonitorNoHandle.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-MonitorNoHandle.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,5664,{05ADC7E1-42DD-603D-3782-00000000AD01}
+2021-03-01T19:39:09.918382100Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:09.828603600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:09.816579200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:09.433990600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.254886000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.253290800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.253168500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.253034400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.252908400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.252769200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.252389300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:09.251883600Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-admon.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-admon.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,2480,{05ADC7E1-42DD-603D-3682-00000000AD01}
+2021-03-01T19:39:09.222103300Z,23,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Program Files\Notepad++\notepad++.exe,,,4736,{05ADC7E1-6CBF-6039-3A0E-00000000AD01}
+2021-03-01T19:39:10.965202000Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:10.953808100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:10.868702400Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:10.597937500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:10.596795200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:10.596225100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:10.596095600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:10.595944900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:10.595788700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:10.595501100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:10.595127400Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-netmon.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-netmon.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,5252,{05ADC7E1-42DE-603D-3882-00000000AD01}
+2021-03-01T19:39:11.972787900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:11.464276600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:11.284815800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:11.283494900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:11.283366600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:11.283237800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:11.283108800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:11.282967900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:11.282691300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:11.282385500Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-powershell.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-powershell.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,5372,{05ADC7E1-42DF-603D-3982-00000000AD01}
+2021-03-01T19:39:12.984030400Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:12.250880900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:13.867452300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:13.675883800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:13.674391900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:13.674270400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:13.674141400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:13.674006600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:13.673863900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:13.673552200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:13.673050400Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-regmon.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-regmon.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,5656,{05ADC7E1-42E1-603D-3A82-00000000AD01}
+2021-03-01T19:39:13.059036300Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:14.688623300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:14.527295500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:14.347215300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:14.345889200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:14.345763800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:14.345638200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:14.345506300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:14.345367000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:14.345072300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:14.344751800Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-powershell.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-powershell.exe"" --ps2",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,4888,{05ADC7E1-42E2-603D-3B82-00000000AD01}
+2021-03-01T19:39:14.003773200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:15.161153100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:15.159760800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:15.159630200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:15.159486800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:15.159338600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:15.159196100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:15.159074900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:15.158890500Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winprintmon.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-winprintmon.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,5832,{05ADC7E1-42E3-603D-3C82-00000000AD01}
+2021-03-01T19:39:15.019559800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:16.232137800Z,23,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Program Files\Notepad++\notepad++.exe,,,4736,{05ADC7E1-6CBF-6039-3A0E-00000000AD01}
+2021-03-01T19:39:16.219684200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:16.065848100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:17.266994200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:17.125175700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:18.312267500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:18.246563600Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:18.140285300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:19.156327000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:20.186908000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:21.343382000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:21.218281300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:22.249972800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:23.297272300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:23.247711800Z,23,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Program Files\Notepad++\notepad++.exe,,,4736,{05ADC7E1-6CBF-6039-3A0E-00000000AD01}
+2021-03-01T19:39:23.230972100Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:23.156835200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:24.721257800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:24.311991600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:25.390918200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:25.293513800Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:26.421897900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:26.340380200Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:27.452487500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:28.470392600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:28.418518000Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:28.129275300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:29.484719700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:29.466281900Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\lsass.exe,,,852,{05ADC7E1-229D-6039-0B00-00000000AD01}
+2021-03-01T19:39:29.466262600Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\ADWS\Microsoft.ActiveDirectory.WebServices.exe,,,2684,{05ADC7E1-22AF-6039-2E00-00000000AD01}
+2021-03-01T19:39:30.499755400Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:30.263522500Z,23,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Program Files\Notepad++\notepad++.exe,,,4736,{05ADC7E1-6CBF-6039-3A0E-00000000AD01}
+2021-03-01T19:39:31.515251800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:32.768354300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:32.546445100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:33.969307500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:33.652970500Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:33.652945100Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:33.562539100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:34.684150800Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:34.594741900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:35.625136200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:36.687899700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:36.655959300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:37.736595800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:37.719445900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:37.543642400Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:37.264609100Z,23,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Program Files\Notepad++\notepad++.exe,,,4736,{05ADC7E1-6CBF-6039-3A0E-00000000AD01}
+2021-03-01T19:39:38.766402700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:38.590480200Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:38.590457800Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:39.781449700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:39.637338600Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:39:40.812193100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:41.843728100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:41.000127500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:42.859003500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:43.951684000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:43.763372200Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:43.187828500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:43.127325900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.127193800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.127063200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.126925900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.126792700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.126675400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.126557400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.126433200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.126301900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.126167200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.126038200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.125902400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.125813000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.125678500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.125560400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.125433100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.125304200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.125186900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.125063000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.124933700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.124812600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.124695900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.124564200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.124439500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.124314600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.124190500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.124057600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.123930800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.123805700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.123671500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.123534500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.123417700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.123279400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.123156300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.123030100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.122890400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:43.122748000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:44.968799700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:44.264956400Z,23,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Program Files\Notepad++\notepad++.exe,,,4736,{05ADC7E1-6CBF-6039-3A0E-00000000AD01}
+2021-03-01T19:39:45.999962700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:45.781494100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:47.015077500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:48.981098600Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:48.250563300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:48.046404600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:49.657554900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:49.094061100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:50.783758800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:50.109617800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:50.091582000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\LOCAL SERVICE,C:\Windows\System32\svchost.exe,,,1152,{05ADC7E1-229F-6039-1100-00000000AD01}
+2021-03-01T19:39:51.279477800Z,23,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Program Files\Notepad++\notepad++.exe,,,4736,{05ADC7E1-6CBF-6039-3A0E-00000000AD01}
+2021-03-01T19:39:51.109455000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:52.125028700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:53.250103800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:53.218385700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:54.250639100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:54.121782700Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:39:55.394989400Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,,,6484,{05ADC7E1-FB1F-603C-5979-00000000AD01}
+2021-03-01T19:39:55.280738000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:56.437635800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:56.312516000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:57.719919800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:57.344347900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:57.262471000Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,,,6484,{05ADC7E1-FB1F-603C-5979-00000000AD01}
+2021-03-01T19:39:58.359843400Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:58.294980300Z,23,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Program Files\Notepad++\notepad++.exe,,,4736,{05ADC7E1-6CBF-6039-3A0E-00000000AD01}
+2021-03-01T19:39:59.945809100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:59.945648600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:59.943531500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:59.943191000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:59.943041000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:59.942905300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:39:59.406260400Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:39:59.340583800Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:40:00.995956400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:00.994318300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:00.994161500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:00.994021800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:00.993889000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:00.993722900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:00.993322400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:00.992950100Z,1,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Windows\System32\schtasks.exe,"""C:\Windows\System32\schtasks.exe""  /Create /F /TN ""SoundIentifier"" /TR ""wmic process call create ""C:\Users\Public\Disk101.ini:59e9c935"""" /SC Once /ST 10:05",C:\Windows\System32\cmd.exe,6612,{05ADC7E1-4310-603D-3D82-00000000AD01}
+2021-03-01T19:40:00.439643300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:01.987757900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:01.882957700Z,11,win-dc-974.attackrange.local,,C:\Windows\system32\svchost.exe,,,1540,{05ADC7E1-229F-6039-1600-00000000AD01}
+2021-03-01T19:40:01.876026600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.875884900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.871889000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.864180500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.862786700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.862649700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.862497800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.862341400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.862151700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.861958400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.861797500Z,1,win-dc-974.attackrange.local,ATTACKRANGE\Administrator,C:\Windows\System32\schtasks.exe,"""C:\Windows\System32\schtasks.exe""  /Create /F /TN ""Disk Diag"" /TR ""explorer.exe C:\Users\Public\Weber0.js"" /SC Minute /MO 6",C:\Windows\System32\cmd.exe,6940,{05ADC7E1-4311-603D-3E82-00000000AD01}
+2021-03-01T19:40:01.457998000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:01.014038300Z,11,win-dc-974.attackrange.local,,C:\Windows\system32\svchost.exe,,,1540,{05ADC7E1-229F-6039-1600-00000000AD01}
+2021-03-01T19:40:01.006785400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.006637800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:01.002719300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:02.968110000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:02.967692000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:02.967499000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:02.474261900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:03.485586000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:03.424614000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:04.516455300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:04.293789000Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:40:04.293762500Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:40:05.562165000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:06.594554000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:06.387526600Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:40:06.158067000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:07.656357600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:07.172214300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:08.671738200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:08.481288600Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:40:09.774001900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.772421900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.772287000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.772161200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.772019000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.771866100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.771724100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.771561500Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-MonitorNoHandle.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-MonitorNoHandle.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,6924,{05ADC7E1-4319-603D-4082-00000000AD01}
+2021-03-01T19:40:09.722373200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:09.512533300Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:40:09.098537200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.096959200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.096823500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.096688400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.096533100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.096390300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.096101400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:09.095708600Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-netmon.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-netmon.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,5708,{05ADC7E1-4319-603D-3F82-00000000AD01}
+2021-03-01T19:40:09.064550500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:10.756854300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:10.621117700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:10.528175500Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:40:10.441855100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:10.440278500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:10.440149700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:10.440026900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:10.439900800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:10.439757700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:10.439455800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:10.438992000Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-admon.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-admon.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,3056,{05ADC7E1-431A-603D-4182-00000000AD01}
+2021-03-01T19:40:10.127698700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:11.786057300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:11.559394200Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Windows\System32\dns.exe,,,2664,{05ADC7E1-22AF-6039-2D00-00000000AD01}
+2021-03-01T19:40:11.463038400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:11.360603200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:11.285350800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:11.283948800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:11.283823400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:11.283697600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:11.283558600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:11.283416800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:11.283076100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:11.282670400Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-powershell.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-powershell.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,4824,{05ADC7E1-431B-603D-4282-00000000AD01}
+2021-03-01T19:40:12.812632300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:12.471398100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:13.866719800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:13.846167000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:13.691549800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:13.690099200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:13.689954100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:13.689795800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:13.689648900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:13.689534200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:13.689233700Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:13.688879400Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-powershell.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-powershell.exe"" --ps2",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,6928,{05ADC7E1-431D-603D-4382-00000000AD01}
+2021-03-01T19:40:14.870875500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:14.554220400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:14.418740400Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:40:14.363137100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:14.361744800Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:14.361610600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:14.361467600Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:14.361312900Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:14.361183400Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:14.361057300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:14.360894600Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-regmon.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-regmon.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,748,{05ADC7E1-431E-603D-4482-00000000AD01}
+2021-03-01T19:40:14.112153500Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:15.893888600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:15.159769200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:15.158404300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:15.158278300Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:15.158150200Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:15.158015000Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:15.157874100Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:15.157756500Z,10,win-dc-974.attackrange.local,,,,,,
+2021-03-01T19:40:15.157599400Z,1,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winprintmon.exe,"""C:\Program Files\SplunkUniversalForwarder\bin\splunk-winprintmon.exe""",C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe,7144,{05ADC7E1-431F-603D-4582-00000000AD01}
+2021-03-01T19:40:15.142330900Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:16.922445700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:16.158132800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:17.937177400Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:18.952996800Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:19.637608700Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:40:19.158079200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:20.000485600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:21.064941000Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:22.188858100Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:22.093929600Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:23.719926200Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:23.125282700Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}
+2021-03-01T19:40:24.793917600Z,3,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\etc\apps\Splunk_TA_stream\windows_x86_64\bin\streamfwd.exe,,,2272,{05ADC7E1-FB27-603C-8779-00000000AD01}
+2021-03-01T19:40:24.156581300Z,23,win-dc-974.attackrange.local,NT AUTHORITY\SYSTEM,C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe,,,4328,{05ADC7E1-FB2E-603C-9079-00000000AD01}

@@ -136,6 +136,31 @@ nxc smb 10.129.95.210 -u Administrator -H '32693b11e6aa90eb43d32c72a07ceea6'
 ```
 
 **Result:** Full Domain Admin access confirmed
+## Stage 11 – Persistence (Domain Account Creation)
+
+**Action:** Establish persistence by creating an additional domain user account in the Active Directory environment.
+
+**ATT&CK Technique:** T1136.002 (Create Account: Domain Account)
+
+**Tooling:** Active Directory, Windows PowerShell
+
+**Execution Plan:**
+
+1. Use the administrative access obtained during the previous attack stages.
+2. Create a new domain user named `backup_test_user` in the authorized laboratory environment.
+3. Configure the account with a strong password and standard user permissions.
+4. Verify that the new account exists in Active Directory.
+5. Test authentication using the newly created account.
+6. Examine Windows Security Event ID 4720 to identify the account creation event.
+7. Remove the test account after completing the experiment.
+
+**Expected Result:** A new domain account is created and can authenticate independently of the originally compromised account.
+
+**Execution Status:** Planned extension — not yet executed.
+
+**Security Relevance:** Attackers may create additional domain accounts to maintain access after the original compromised account is disabled or its password is changed.
+
+**Detection:** Monitor Event ID 4720 for newly created user accounts and investigate unexpected account creation by privileged users.
 
 ### Small Note on MITRE CALDERA
 

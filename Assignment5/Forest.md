@@ -8,7 +8,8 @@ Stage 1 – Reconnaissance
 
 **Action:** Full TCP port scan and service/version enumeration  
 **ATT&CK Technique:** T1595 (Active Scanning)   
-**Tooling:** Nmap **Command:**
+**Tooling:** Nmap
+**Command:**
 
 ```text-plain
 nmap -p- -sCV --min-rate 2500 -vv -oN nmap 10.129.95.210

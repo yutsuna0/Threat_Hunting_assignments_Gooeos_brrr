@@ -1,0 +1,527 @@
+{
+  "name": "Storm-0501 (G1053) - AD Attack Chain (Week 10 hunt scope)",
+  "version": "4.5",
+  "domain": "enterprise",
+  "description": "Enterprise techniques used by Storm-0501 (G1053), annotated for the group topic 'Threat Hunting for Active Directory Attacks'. Scores encode the role of each technique in the AD-to-cloud attack chain: 12 on-prem AD techniques, 19 cloud-pivot techniques. Built from the official MITRE layer (v1.0) - see data/storm0501_techniques.csv.",
+  "filters": {
+    "platforms": [
+      "Windows",
+      "IaaS",
+      "Azure AD"
+    ]
+  },
+  "sorting": 3,
+  "layout": {
+    "layout": "side",
+    "aggregateFunction": "average",
+    "showID": true,
+    "showName": true,
+    "showAggregateScores": false,
+    "countUnscored": false
+  },
+  "hideDisabled": false,
+  "techniques": [
+    {
+      "techniqueID": "T1087",
+      "score": 60,
+      "enabled": true,
+      "comment": "Parent technique: Storm-0501 enumerated domain and cloud accounts",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1087.002",
+      "score": 60,
+      "enabled": true,
+      "comment": "Used an obfuscated ADRecon variant to discover domain accounts (tools: ADRecon.ps1 (obfuscated obfs.ps1 / recon.ps1))",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1087.004",
+      "score": 40,
+      "enabled": true,
+      "comment": "Enumerated users, roles and resources in Azure tenants (tools: AzureHound)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1098",
+      "score": 40,
+      "enabled": true,
+      "comment": "Parent technique: password resets and role elevation in the victim tenant",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1098.001",
+      "score": 40,
+      "enabled": true,
+      "comment": "Reset passwords of admin accounts lacking MFA and registered own MFA method (tools: Password reset + own MFA registration)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1098.003",
+      "score": 40,
+      "enabled": true,
+      "comment": "Granted itself User Access Administrator and Owner roles over Azure subscriptions (tools: elevateAccess/action; roleAssignments/write)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1110",
+      "score": 60,
+      "enabled": true,
+      "comment": "Leveraged brute force attacks to obtain credentials",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1580",
+      "score": 40,
+      "enabled": true,
+      "comment": "Enumerated cloud environments to identify critical assets and data stores (tools: AzureHound)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1526",
+      "score": 40,
+      "enabled": true,
+      "comment": "Discovered Azure policies, resource locks and storage immutability protections (tools: AzureHound)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1059",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: extensive use of shell and scripting interpreters",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1059.001",
+      "score": 60,
+      "enabled": true,
+      "comment": "Executed commands and scripts via PowerShell (tools: PowerShell; Evil-WinRM sessions)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1059.009",
+      "score": 40,
+      "enabled": true,
+      "comment": "Leveraged Cloud CLI to execute commands and exfiltrate data (tools: Azure CLI; AzCopy)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1555",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: harvested credentials from password stores",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1555.005",
+      "score": 60,
+      "enabled": true,
+      "comment": "Stole Keepass credentials using Find-KeePassConfig.ps1 (tools: Find-KeePassConfig.ps1)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1555.006",
+      "score": 40,
+      "enabled": true,
+      "comment": "Stored its encryption key in Azure Key Vault (tools: Azure Key Vault (KeyVault/vaults/write))",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1485",
+      "score": 80,
+      "enabled": true,
+      "comment": "Destroyed data and backup files, including Azure storage accounts",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1486",
+      "score": 80,
+      "enabled": true,
+      "comment": "Encrypted files using RaaS payloads; moved to cloud-based encryption scopes (tools: Sabbath; Hive; BlackCat; Hunters International; LockBit 3.0; Embargo)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1530",
+      "score": 40,
+      "enabled": true,
+      "comment": "Exposed non-remotely accessible storage accounts for collection (tools: storageAccounts/write)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1587",
+      "score": 5,
+      "enabled": true,
+      "comment": "Parent technique: developed own attacker capabilities",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1587.003",
+      "score": 5,
+      "enabled": true,
+      "comment": "Used a self-signed TLS certificate imitating a Microsoft CA (tools: Self-signed 'Microsoft IT TLS CA 5' certificate)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1484",
+      "score": 60,
+      "enabled": true,
+      "comment": "Parent technique: tampered with domain GPOs and Entra tenant trust",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1484.001",
+      "score": 60,
+      "enabled": true,
+      "comment": "Distributed GPOs to tamper with security products (tools: GPO distribution)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1484.002",
+      "score": 40,
+      "enabled": true,
+      "comment": "Added an attacker-controlled federated domain to sign in as any user via SAML (tools: AADInternals federated-domain backdoor)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1482",
+      "score": 60,
+      "enabled": true,
+      "comment": "Used nltest.exe to enumerate domain trusts (tools: nltest.exe)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1567",
+      "score": 80,
+      "enabled": true,
+      "comment": "Parent technique: exfiltrated data over web services",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1567.002",
+      "score": 80,
+      "enabled": true,
+      "comment": "Exfiltrated data to MEGA, MegaSync and its own infrastructure (tools: MEGA; Rclone (svhost.exe); AzCopy)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1190",
+      "score": 30,
+      "enabled": true,
+      "comment": "Exploited N-days in ManageEngine, Citrix NetScaler, Adobe ColdFusion (tools: CVE-2022-47966; CVE-2023-4966; CVE-2023-29300/38203)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1657",
+      "score": 80,
+      "enabled": true,
+      "comment": "Engaged in double extortion and direct victim contact (tools: Double extortion; leak sites; Microsoft Teams contact)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1490",
+      "score": 80,
+      "enabled": true,
+      "comment": "Deleted snapshots, restore points, storage accounts and backup services (tools: snapshots/restorePoints/storageAccounts/RecoveryServices deletes)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1036",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: masqueraded tooling on endpoints",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1036.004",
+      "score": 20,
+      "enabled": true,
+      "comment": "Masqueraded Rclone as svhost.exe and scvhost.exe (tools: Rclone as svhost.exe / scvhost.exe)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1556",
+      "score": 40,
+      "enabled": true,
+      "comment": "Parent technique: tampered with identity authentication flows",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1556.009",
+      "score": 40,
+      "enabled": true,
+      "comment": "Registered own MFA method and abused a hybrid-joined server to satisfy Conditional Access (tools: Own MFA registration; hybrid-joined device bypass)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1578",
+      "score": 40,
+      "enabled": true,
+      "comment": "Parent technique: modified victim cloud infrastructure",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1578.003",
+      "score": 40,
+      "enabled": true,
+      "comment": "Deleted cloud data stores and resources across Azure subscriptions (tools: Mass deletion of Azure data stores)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1027",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: obfuscated payloads and scripts",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1027.002",
+      "score": 20,
+      "enabled": true,
+      "comment": "Packed Cobalt Strike payloads with Themida (tools: Themida-packed Cobalt Strike)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1588",
+      "score": 5,
+      "enabled": true,
+      "comment": "Parent technique: obtained malware and exploit capabilities",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1588.006",
+      "score": 5,
+      "enabled": true,
+      "comment": "Obtained and weaponized N-day exploits for initial access (tools: N-day exploits (ManageEngine / NetScaler / ColdFusion))",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1003",
+      "score": 60,
+      "enabled": true,
+      "comment": "Used the SecretsDump module to obtain account credentials (tools: Impacket SecretsDump)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1003.006",
+      "score": 60,
+      "enabled": true,
+      "comment": "Performed DCSync to extract credentials from the domain (tools: Impacket secretsdump.py / Mimikatz lsadump::dcsync)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1057",
+      "score": 20,
+      "enabled": true,
+      "comment": "Discovered running processes with tasklist.exe (tools: tasklist.exe)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1219",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: used legitimate remote access tooling",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1219.002",
+      "score": 20,
+      "enabled": true,
+      "comment": "Abused legitimate RMM tools for persistence and access (tools: AnyDesk; NinjaOne; Level.io)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1021",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: moved laterally via remote services",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1021.006",
+      "score": 60,
+      "enabled": true,
+      "comment": "Used Evil-WinRM (PowerShell over WinRM) for remote execution (tools: Evil-WinRM)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1021.007",
+      "score": 40,
+      "enabled": true,
+      "comment": "Used the compromised Entra Connect Sync server to move laterally (tools: Compromised Entra Connect Sync server)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1053",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: abused scheduled tasks",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1053.005",
+      "score": 60,
+      "enabled": true,
+      "comment": "Registered a SysUpdate task via GPO to distribute Embargo ransomware (tools: GPO-registered task 'SysUpdate')",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1518",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: discovered installed software",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1518.001",
+      "score": 20,
+      "enabled": true,
+      "comment": "Checked for Defender for Endpoint services to target unprotected hosts (tools: sc query sense; sc query windefend)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1218",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: abused signed binaries",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1218.010",
+      "score": 20,
+      "enabled": true,
+      "comment": "Launched Cobalt Strike Beacons with regsvr32.exe (tools: regsvr32.exe (Cobalt Strike Beacon))",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1218.011",
+      "score": 20,
+      "enabled": true,
+      "comment": "Launched Cobalt Strike Beacons with rundll32.exe (tools: rundll32.exe (Cobalt Strike Beacon))",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1082",
+      "score": 20,
+      "enabled": true,
+      "comment": "Queried endpoint details with native tools and OSQuery (tools: systeminfo; OSQuery; ossec-win32)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1614",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: checked victim system locale",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1614.001",
+      "score": 20,
+      "enabled": true,
+      "comment": "Filtered out victims in prohibited language regions (Russia/CIS) (tools: CIS-language check)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1537",
+      "score": 40,
+      "enabled": true,
+      "comment": "Copied victim data to its own infrastructure with AzCopy (tools: AzCopy)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1552",
+      "score": 20,
+      "enabled": true,
+      "comment": "Parent technique: harvested exposed credentials",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1552.004",
+      "score": 40,
+      "enabled": true,
+      "comment": "Stole Azure Storage access keys using the Owner role (tools: storageAccounts/listkeys/action)",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1078",
+      "score": 40,
+      "enabled": true,
+      "comment": "Parent technique: abused valid accounts across environments",
+      "showSubtechniques": true
+    },
+    {
+      "techniqueID": "T1078.004",
+      "score": 40,
+      "enabled": true,
+      "comment": "Abused the Entra Connect sync account, an MFA-less Global Admin and storage keys (tools: Entra Connect DSA; MFA-less Global Admin; storage keys)",
+      "showSubtechniques": true
+    }
+  ],
+  "gradient": {
+    "colors": [
+      "#bdc3c7",
+      "#f1c40f",
+      "#e67e22",
+      "#c0392b"
+    ],
+    "minValue": 0,
+    "maxValue": 100
+  },
+  "legendItems": [
+    {
+      "label": "AD / on-prem identity (hunting priority)",
+      "color": "#e74c3c"
+    },
+    {
+      "label": "Cloud pivot (Entra ID / Azure)",
+      "color": "#e67e22"
+    },
+    {
+      "label": "Impact / extortion & exfiltration",
+      "color": "#c0392b"
+    },
+    {
+      "label": "Host tradecraft",
+      "color": "#3498db"
+    },
+    {
+      "label": "C2 / remote access",
+      "color": "#95a5a6"
+    },
+    {
+      "label": "Initial access",
+      "color": "#f1c40f"
+    },
+    {
+      "label": "Resource development",
+      "color": "#bdc3c7"
+    }
+  ],
+  "metadata": [
+    {
+      "name": "Course",
+      "value": "Introduction to Threat Hunting - Astana IT University"
+    },
+    {
+      "name": "Group topic",
+      "value": "Threat Hunting for Active Directory Attacks"
+    },
+    {
+      "name": "Week",
+      "value": "10 - Learning APT Techniques"
+    },
+    {
+      "name": "Sources",
+      "value": "attack.mitre.org/groups/G1053; Microsoft Threat Intelligence blog 2024-09-26 and 2025-08-27; Avertium (2022); McLellan & Schondorfer 'Kitten.gif' (2021)"
+    }
+  ],
+  "links": [
+    {
+      "label": "MITRE G1053",
+      "url": "https://attack.mitre.org/groups/G1053/"
+    },
+    {
+      "label": "Microsoft blog (Aug 2025)",
+      "url": "https://www.microsoft.com/en-us/security/blog/2025/08/27/storm-0501s-evolving-techniques-lead-to-cloud-based-ransomware"
+    }
+  ]
+}

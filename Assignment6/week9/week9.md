@@ -88,8 +88,6 @@ PS C:\Users\labadmin\Threat_Hunting\week9> powershell -ExecutionPolicy Bypass -F
 Execution log: C:\Users\labadmin\Threat_Hunting\week9\output\execution_log.jsonl
 ```
 
-The test details and per-test telemetry (encoded download cradle, `klist` output after Kerberoasting, `secretsdump.py` output, `net user` output, `winrs` session) are documented in `**README.md**` **§3** of this folder. The Sysmon operational channel was then exported with:
-
 ```text-plain
 wevtutil qe Microsoft-Windows-Sysmon/Operational /f:XML > data\sysmon_export.xml
 ```

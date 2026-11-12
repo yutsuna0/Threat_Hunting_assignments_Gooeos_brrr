@@ -1,14 +1,14 @@
 {
   "name": "Storm-0501 (G1053) - AD Attack Chain (Week 10 hunt scope)",
-  "version": "4.5",
-  "domain": "enterprise",
+  "versions": {
+    "attack": "20",
+    "navigator": "5.3.2",
+    "layer": "4.5"
+  },
+  "domain": "enterprise-attack",
   "description": "Enterprise techniques used by Storm-0501 (G1053), annotated for the group topic 'Threat Hunting for Active Directory Attacks'. Scores encode the role of each technique in the AD-to-cloud attack chain: 12 on-prem AD techniques, 19 cloud-pivot techniques. Built from the official MITRE layer (v1.0) - see data/storm0501_techniques.csv.",
   "filters": {
-    "platforms": [
-      "Windows",
-      "IaaS",
-      "Azure AD"
-    ]
+    "platforms": []
   },
   "sorting": 3,
   "layout": {
@@ -497,10 +497,6 @@
     }
   ],
   "metadata": [
-    {
-      "name": "Course",
-      "value": "Introduction to Threat Hunting - Astana IT University"
-    },
     {
       "name": "Group topic",
       "value": "Threat Hunting for Active Directory Attacks"
